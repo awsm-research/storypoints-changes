@@ -1,0 +1,527 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"abind","abind","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4-5",NA,"R (>= 1.5.0)","methods, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"askpass","askpass","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"assertthat","assertthat","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.1",NA,NA,"tools",NA,"testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"backports","backports","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.1",NA,"R (>= 3.0.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"base","base","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,"methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"base64enc","base64enc","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"BH","BH","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.75.0-0",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","3.6.1"
+"bit","bit","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1-14",NA,"R (>= 2.9.2)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"bit64","bit64","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9-7",NA,"R (>= 3.0.1), bit (>= 1.1-12), utils, methods, stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"bitops","bitops","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-6",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"blob","blob","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.1",NA,NA,"methods, prettyunits",NA,"covr, pillar (>= 1.2.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"boot","boot","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3-20","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.6.0"
+"brew","brew","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-6",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.6.1"
+"brio","brio","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.2",NA,NA,NA,NA,"testthat (>= 2.1.0), covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"broom","broom","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.7.6",NA,"R (>= 3.1)","backports, dplyr (>= 1.0.0), ellipsis, generics (>= 0.0.2),
+glue, methods, purrr, rlang, stringr, tibble (>= 3.0.0), tidyr
+(>= 1.0.0)",NA,"AER, akima, AUC, bbmle, betareg, biglm, binGroup, boot,
+btergm, car, caret, cluster, cmprsk, coda, covr, drc, e1071,
+emmeans, epiR, ergm (>= 3.10.4), fixest (>= 0.8.1), gam (>=
+1.15), gee, geepack, ggplot2, glmnet, glmnetUtils, gmm, Hmisc,
+irlba, joineRML, Kendall, knitr, ks, Lahman, lavaan, leaps,
+lfe, lm.beta, lme4, lmodel2, lmtest (>= 0.9.38), lsmeans, maps,
+maptools, margins, MASS, Matrix, mclust, mediation, metafor,
+mfx, mgcv, mlogit, modeldata, modeltests, muhaz, multcomp,
+network, nnet, orcutt (>= 2.2), ordinal, plm, poLCA, psych,
+quantreg, Rchoice, rgeos, rmarkdown, robust, robustbase,
+rsample, sandwich, sp, spdep, spatialreg, speedglm, spelling,
+survey, survival, systemfit, testthat (>= 2.1.0), tseries,
+vars, zoo",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"C50","C50","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.4",NA,"R (>= 2.10.0)","partykit, Cubist (>= 0.2.3)",NA,"covr, knitr, modeldata, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"cachem","cachem","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.5",NA,NA,"rlang, fastmap",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"callr","callr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.7.0",NA,NA,"processx (>= 3.5.0), R6, utils",NA,"cli, covr, ps, rprojroot, spelling, testthat, withr (>=
+2.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"car","car","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.0-10",NA,"R (>= 3.5.0), carData (>= 3.0-0)","abind, MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg,
+grDevices, utils, stats, graphics, maptools, rio, lme4, nlme",NA,"alr4, boot, coxme, knitr, leaps, lmtest, Matrix,
+MatrixModels, rgl (>= 0.93.960), sandwich, SparseM, survival,
+survey",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"carData","carData","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.0-4",NA,"R (>= 3.5.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"caret","caret","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","6.0-88",NA,"R (>= 3.2.0), lattice (>= 0.20), ggplot2","foreach, methods, plyr, ModelMetrics (>= 1.2.2.2), nlme,
+reshape2, stats, stats4, utils, grDevices, recipes (>= 0.1.10),
+withr (>= 2.0.0), pROC,",NA,"BradleyTerry2, e1071, earth (>= 2.2-3), fastICA, gam (>=
+1.15), ipred, kernlab, knitr, klaR, MASS, ellipse, Matrix, mda,
+mgcv, mlbench, MLmetrics, nnet, party (>= 0.9-99992), pls,
+proxy, randomForest, RANN, rmarkdown, spls, subselect, pamr,
+superpc, Cubist, testthat (>= 0.9.1), rpart, dplyr, covr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"caTools","caTools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.17.1.2",NA,"R (>= 2.2.0)","bitops",NA,"MASS, rpart",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"cellranger","cellranger","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.0",NA,"R (>= 3.0.0)","rematch, tibble",NA,"covr, testthat (>= 1.0.0), knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"checkmate","checkmate","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.0",NA,"R (>= 3.0.0)","backports (>= 1.1.0), utils",NA,"R6, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+0.11.0), tinytest (>= 1.1.0), tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"class","class","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","7.3-19","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"cli","cli","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.5.0",NA,"R (>= 2.10)","glue, utils",NA,"callr, covr, grDevices, htmlwidgets, knitr, methods, mockery,
+ps (>= 1.3.4.9000), rmarkdown, rstudioapi, prettycode (>=
+1.1.0), testthat, tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"clipr","clipr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.7.1",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"cluster","cluster","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.2","recommended","R (>= 3.4.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"codetools","codetools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2-16","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.6.0"
+"coin","coin","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4-1",NA,"R (>= 3.6.0), survival","methods, parallel, stats, stats4, utils, libcoin (>= 1.0-5),
+matrixStats (>= 0.54.0), modeltools (>= 0.2-9), mvtnorm (>=
+1.0-5), multcomp","libcoin (>= 1.0-5)","xtable, e1071, vcd, TH.data (>= 1.0-7)",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"colorspace","colorspace","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0-1",NA,"R (>= 3.0.0), methods","graphics, grDevices, stats",NA,"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"commonmark","commonmark","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.7",NA,NA,NA,NA,"curl, testthat, xml2",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"compiler","compiler","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"config","config","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3",NA,NA,"yaml (>= 2.1.13)",NA,"testthat, knitr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"conquer","conquer","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.2",NA,"R (>= 3.5.0)","Rcpp (>= 1.0.3), Matrix, matrixStats, stats","Rcpp, RcppArmadillo (>= 0.9.850.1.0)",NA,NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"cpp11","cpp11","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.7",NA,NA,NA,NA,"bench, brio, callr, cli, covr, decor, desc, ggplot2, glue,
+knitr, lobstr, mockery, progress, rmarkdown, scales, testthat,
+tibble, utils, vctrs, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"crayon","crayon","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.1",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"credentials","credentials","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.0",NA,NA,"openssl (>= 1.3), sys (>= 2.1), curl, jsonlite, askpass",NA,"testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"Cubist","Cubist","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.40",NA,"lattice","reshape2, utils",NA,"mlbench, knitr, modeldata, dplyr (>= 0.7.4), rlang,
+tidyrules, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"curl","curl","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","4.3.1",NA,"R (>= 3.0.0)",NA,NA,"spelling, testthat (>= 1.0.0), knitr, jsonlite, rmarkdown,
+magrittr, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"data.table","data.table","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.14.0",NA,"R (>= 3.1.0)","methods",NA,"bit64 (>= 4.0.0), bit (>= 4.0.4), curl, R.utils, xts,
+nanotime, zoo (>= 1.8-1), yaml, knitr, rmarkdown",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"datasets","datasets","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"DBI","DBI","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.0",NA,"R (>= 3.0.0), methods",NA,NA,"blob, covr, hms, knitr, magrittr, rprojroot, rmarkdown,
+RSQLite (>= 1.1-2), testthat, xml2",NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"dbplyr","dbplyr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.0",NA,"R (>= 3.1)","assertthat (>= 0.2.0), DBI (>= 1.0.0), dplyr (>= 0.8.0), glue
+(>= 1.2.0), methods, purrr (>= 0.2.5), R6 (>= 2.2.2), rlang (>=
+0.2.0), tibble (>= 1.4.2), tidyselect (>= 0.2.4), utils",NA,"bit64, covr, knitr, Lahman, nycflights13, RMariaDB (>=
+1.0.2), rmarkdown, RMySQL (>= 0.10.11), RPostgreSQL (>= 0.4.1),
+RSQLite (>= 2.1.0), testthat (>= 2.0.0), withr (>= 2.1.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"dendextend","dendextend","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.15.1",NA,"R (>= 3.0.0)","utils, stats, datasets, magrittr (>= 1.0.1), ggplot2, viridis",NA,"knitr, rmarkdown, testthat, seriation, colorspace, ape,
+microbenchmark, gplots, heatmaply, dynamicTreeCut, pvclust,
+corrplot, DendSer, MASS, cluster, fpc, circlize (>= 0.2.5),
+covr","ggdendro, dendroextras, Hmisc, data.table, rpart","GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"DEoptimR","DEoptimR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-9",NA,NA,"stats",NA,NA,"robustbase","GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"desc","desc","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.0",NA,"R (>= 3.1.0)","utils, R6, crayon, rprojroot",NA,"covr, testthat, whoami, withr, spelling, gh",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"devtools","devtools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.4.1",NA,"R (>= 3.0.2), usethis (>= 2.0.1)","callr (>= 3.6.0), cli (>= 2.4.0), desc (>= 1.3.0), ellipsis
+(>= 0.3.1), fs (>= 1.5.0), httr (>= 1.4.2), lifecycle (>=
+1.0.0), memoise (>= 2.0.0), pkgbuild (>= 1.2.0), pkgload (>=
+1.2.1), rcmdcheck (>= 1.3.3), remotes (>= 2.3.0), rlang (>=
+0.4.10), roxygen2 (>= 7.1.1), rstudioapi (>= 0.13), rversions
+(>= 2.0.2), sessioninfo (>= 1.1.1), stats, testthat (>= 3.0.2),
+tools, utils, withr (>= 2.4.1)",NA,"BiocManager (>= 1.30.12), covr (>= 3.5.1), curl (>= 4.3),
+digest (>= 0.6.27), DT (>= 0.17), foghorn (>= 1.3.2), gh (>=
+1.2.1), gmailr (>= 1.0.0), knitr (>= 1.31), lintr (>= 2.0.1),
+MASS, mockery (>= 0.4.2), pingr (>= 2.0.1), pkgdown (>= 1.6.1),
+rhub (>= 1.1.1), rmarkdown (>= 2.7), spelling (>= 2.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"dichromat","dichromat","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0-0",NA,"R (>= 2.10), stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.6.0"
+"diffobj","diffobj","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.4",NA,"R (>= 3.1.0)","crayon (>= 1.3.2), tools, methods, utils, stats",NA,"knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"digest","digest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.6.27",NA,"R (>= 3.3.0)","utils",NA,"tinytest, knitr, rmarkdown, minidown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"diptest","diptest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.76-0",NA,NA,"graphics, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"DMwR","DMwR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4.1",NA,"R(>= 2.10), methods, graphics, lattice (>= 0.18-3), grid (>=
+2.10.1)","xts (>= 0.6-7), quantmod (>= 0.3-8), zoo (>= 1.6-4), abind (>=
+1.1-0), rpart (>= 3.1-46), class (>= 7.3-1), ROCR (>= 1.0)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"doParallel","doParallel","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.16",NA,"R (>= 2.14.0), foreach(>= 1.2.0), iterators(>= 1.0.0),
+parallel, utils",NA,NA,"caret, mlbench, rpart, RUnit","compiler","GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"dplyr","dplyr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.6",NA,"R (>= 3.3.0)","ellipsis, generics, glue (>= 1.3.2), lifecycle (>= 1.0.0),
+magrittr (>= 1.5), methods, R6, rlang (>= 0.4.10), tibble (>=
+2.1.3), tidyselect (>= 1.1.0), utils, vctrs (>= 0.3.5), pillar
+(>= 1.5.1)",NA,"bench, broom, callr, covr, DBI, dbplyr (>= 1.4.3), knitr,
+Lahman, lobstr, microbenchmark, nycflights13, purrr, rmarkdown,
+RMySQL, RPostgreSQL, RSQLite, testthat (>= 3.0.2), tidyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"e1071","e1071","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.7-7",NA,NA,"graphics, grDevices, class, stats, methods, utils, proxy",NA,"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"effsize","effsize","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.8.1",NA,NA,NA,NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"ellipsis","ellipsis","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.2",NA,"R (>= 3.2)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"evaluate","evaluate","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.14",NA,"R (>= 3.0.2)","methods",NA,"testthat, lattice, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"fansi","fansi","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.0",NA,"R (>= 3.1.0)","grDevices, utils",NA,"unitizer, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"farver","farver","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.0",NA,NA,NA,NA,"testthat (>= 2.1.0), covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"fastmap","fastmap","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.0",NA,NA,NA,NA,"testthat (>= 2.1.1)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"flexmix","flexmix","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.3-17",NA,"R (>= 2.15.0), lattice","graphics, grid, grDevices, methods, modeltools (>= 0.2-16),
+nnet, stats, stats4, utils",NA,"actuar, codetools, diptest, Ecdat, ellipse, gclus, glmnet,
+lme4 (>= 1.1), MASS, mgcv (>= 1.8-0), mlbench, multcomp,
+mvtnorm, SuppDists, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"forcats","forcats","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.1",NA,"R (>= 3.2)","ellipsis, magrittr, rlang, tibble",NA,"covr, dplyr, ggplot2, knitr, readr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"foreach","foreach","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5.1",NA,"R (>= 2.5.0)","codetools, utils, iterators",NA,"randomForest, doMC, doParallel, testthat, knitr, rmarkdown",NA,"Apache License (== 2.0)",NA,NA,NA,NA,"no","3.6.1"
+"forecast","forecast","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","8.14",NA,"R (>= 3.0.2),","colorspace, fracdiff, ggplot2 (>= 2.2.1), graphics, lmtest,
+magrittr, nnet, parallel, Rcpp (>= 0.11.0), stats, timeDate,
+tseries, urca, zoo","Rcpp (>= 0.11.0), RcppArmadillo (>= 0.2.35)","forecTheta, knitr, methods, rmarkdown, rticles, seasonal,
+testthat, uroot",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"foreign","foreign","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.8-71",NA,"R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"forge","forge","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.0",NA,"R (>= 3.1.2)","rlang (>= 0.3.1), magrittr",NA,"testthat, covr",NA,"Apache License (>= 2.0)",NA,NA,NA,NA,"no","3.6.0"
+"formatR","formatR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.6",NA,"R (>= 3.0.2)",NA,NA,"codetools, shiny, testit, rmarkdown, knitr",NA,"GPL",NA,NA,NA,NA,"no","3.6.0"
+"Formula","Formula","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2-4",NA,"R (>= 2.0.0), stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"fpc","fpc","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.2-9",NA,"R (>= 2.0)","MASS, cluster, mclust, flexmix, prabclus, class, diptest,
+robustbase, kernlab, grDevices, graphics, methods, stats,
+utils, parallel",NA,"tclust, pdfCluster, mvtnorm",NA,"GPL",NA,NA,NA,NA,"no","3.6.1"
+"fracdiff","fracdiff","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5-1",NA,NA,"stats",NA,"longmemo, forecast, urca",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"fs","fs","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5.0",NA,"R (>= 3.1)","methods",NA,"testthat, covr, pillar (>= 1.0.0), tibble (>= 1.1.0), crayon,
+rmarkdown, knitr, withr, spelling, vctrs (>= 0.3.0)",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"generics","generics","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.0",NA,"R (>= 3.1)","methods",NA,"covr, pkgload, testthat, tibble",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"gert","gert","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.0",NA,NA,"askpass, credentials (>= 1.2.1), openssl (>= 1.4.1),
+rstudioapi (>= 0.11), sys, zip (>= 2.1.0)",NA,"spelling, knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"ggplot2","ggplot2","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.1.1",NA,"R (>= 3.1)","digest, grid, gtable (>= 0.1.1), lazyeval, MASS, mgcv, plyr
+(>= 1.7.1), reshape2, rlang (>= 0.2.1), scales (>= 0.5.0),
+stats, tibble, viridisLite, withr (>= 2.0.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, lattice, mapproj,
+maps, maptools, multcomp, munsell, nlme, testthat (>= 0.11.0),
+vdiffr, quantreg, knitr, rgeos, rpart, rmarkdown, sf (>=
+0.3-4), svglite (>= 1.2.0.9001)","sp","GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"gh","gh","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.0",NA,NA,"cli (>= 2.0.1), gitcreds, httr (>= 1.2), ini, jsonlite",NA,"covr, knitr, mockery, rmarkdown, rprojroot, spelling,
+testthat (>= 2.3.2), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"gitcreds","gitcreds","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.1",NA,NA,NA,NA,"codetools, testthat, knitr, mockery, oskeyring, rmarkdown,
+withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"glmnet","glmnet","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0-16",NA,"Matrix (>= 1.0-6), utils, foreach","methods",NA,"survival, knitr, lars",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"glue","glue","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.2",NA,"R (>= 3.2)","methods",NA,"testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2, dplyr, withr, vctrs (>= 0.3.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"gower","gower","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.2",NA,NA,NA,NA,"tinytest (>= 0.9.3),",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"gplots","gplots","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.1.1",NA,"R (>= 3.0)","gtools, stats, caTools, KernSmooth",NA,"grid, MASS, knitr",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"graphics","graphics","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"grDevices",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grDevices","grDevices","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grid","grid","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"grDevices, utils",NA,"lattice",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"gridExtra","gridExtra","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.3",NA,NA,"gtable, grid, grDevices, graphics, utils",NA,"ggplot2, egg, lattice, knitr, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"gtable","gtable","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.0",NA,"R (>= 3.0)","grid",NA,"covr, testthat, knitr, rmarkdown, ggplot2, profvis",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.0"
+"gtools","gtools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.8.2",NA,"methods, stats, utils",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"haven","haven","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.0",NA,"R (>= 3.1)","forcats (>= 0.2.0), hms, Rcpp (>= 0.11.4), readr (>= 0.1.0),
+tibble","Rcpp","covr, fs, knitr, rmarkdown, testthat, pillar (>= 1.1.1), cli,
+crayon",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"here","here","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.1",NA,NA,"rprojroot (>= 2.0.2)",NA,"conflicted, covr, fs, knitr, palmerpenguins, plyr, readr,
+rlang, rmarkdown, testthat, uuid, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"hexbin","hexbin","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.27.2",NA,"R (>= 2.0.1), methods","lattice, grid, graphics, grDevices, stats, utils",NA,"marray, affy, Biobase, limma",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"highr","highr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9",NA,"R (>= 3.2.3)","xfun (>= 0.18)",NA,"knitr, markdown, testit",NA,"GPL",NA,NA,NA,NA,"no","3.6.1"
+"Hmisc","Hmisc","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","4.5-0",NA,"lattice, survival (>= 3.1-6), Formula, ggplot2 (>= 2.2)","methods, latticeExtra, cluster, rpart, nnet, foreign, gtable,
+grid, gridExtra, data.table, htmlTable (>= 1.11.0), viridis,
+htmltools, base64enc",NA,"acepack, chron, rms, mice, tables, knitr, plotly (>= 4.5.6),
+rlang, plyr, VGAM",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"hms","hms","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.0",NA,NA,"ellipsis (>= 0.3.2), lifecycle, methods, pkgconfig, rlang,
+vctrs (>= 0.3.8)",NA,"crayon, lubridate, pillar (>= 1.1.0), testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"htmlTable","htmlTable","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.2.1",NA,NA,"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",NA,"testthat, XML, xml2, Hmisc, reshape, rmarkdown, chron,
+lubridate, tibble, purrr, tidyselect, glue, rlang, tidyr (>=
+0.7.2), dplyr (>= 0.7.4)",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.6.1"
+"htmltools","htmltools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.1.1",NA,"R (>= 2.14.1)","utils, digest, grDevices, base64enc, rlang",NA,"markdown, testthat, withr, Cairo, ragg, shiny","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"htmlwidgets","htmlwidgets","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5.3",NA,NA,"grDevices, htmltools (>= 0.3), jsonlite (>= 0.9.16), yaml",NA,"knitr (>= 1.8), rmarkdown, testthat","shiny (>= 1.1)","MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"httpuv","httpuv","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5.1",NA,"R (>= 2.15.1)","Rcpp (>= 0.11.0), utils, R6, promises, later (>= 0.8.0)","Rcpp, BH, later","testthat, callr, curl",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"httr","httr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.2",NA,"R (>= 3.2)","curl (>= 3.0.0), jsonlite, mime, openssl (>= 0.8), R6",NA,"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"ini","ini","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"inum","inum","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-4",NA,"R (>= 3.3.0)","stats, libcoin (>= 1.0-0)",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"ipred","ipred","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9-8",NA,"R (>= 2.10)","rpart (>= 3.1-8), MASS, survival, nnet, class, prodlim",NA,"mvtnorm, mlbench, TH.data",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"IRdisplay","IRdisplay","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.7.0",NA,"R (>= 3.0.1)","methods, repr",NA,"testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"IRkernel","IRkernel","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.8.15",NA,"R (>= 3.2.0)","repr (>= 0.4.99),
+methods,
+evaluate (>= 0.10),
+IRdisplay (>= 0.3.0.9999),
+pbdZMQ (>= 0.2-1),
+crayon,
+jsonlite (>= 0.9.6),
+uuid,
+digest",NA,"testthat,
+roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,NA,"3.6.0"
+"isoband","isoband","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.4",NA,NA,"grid, utils",NA,"covr, ggplot2, knitr, magick, microbenchmark, rmarkdown, sf,
+testthat, xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"iterators","iterators","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.13",NA,"R (>= 2.5.0), utils",NA,NA,"RUnit, foreach",NA,"Apache License (== 2.0)",NA,NA,NA,NA,"no","3.6.1"
+"jpeg","jpeg","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1-8.1",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"jsonlite","jsonlite","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.7.2",NA,"methods",NA,NA,"httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp, sf",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"kernlab","kernlab","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9-29",NA,"R (>= 2.10)","methods, stats, grDevices, graphics",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"KernSmooth","KernSmooth","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.6.0"
+"knitr","knitr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.33",NA,"R (>= 3.2.3)","evaluate (>= 0.10), highr, methods, markdown, stringr (>=
+0.6), yaml (>= 2.1.19), xfun (>= 0.21), tools",NA,"formatR, testit, digest, rgl (>= 0.95.1201), codetools,
+rmarkdown, htmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10),
+tinytex, reticulate (>= 1.4), JuliaCall (>= 0.11.1), magick,
+png, jpeg, gifski, xml2 (>= 1.2.0), httr, DBI (>= 0.4-1),
+showtext, tibble, sass, bslib, ragg, styler (>= 1.2.0)",NA,"GPL",NA,NA,NA,NA,"no","3.6.1"
+"labeling","labeling","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4.2",NA,NA,"stats, graphics",NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","3.6.1"
+"later","later","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.8.0",NA,NA,"Rcpp (>= 0.12.9), rlang","Rcpp, BH","knitr, rmarkdown, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"lattice","lattice","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.20-44","recommended","R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"latticeExtra","latticeExtra","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.6-29",NA,"R (>= 3.6.0), lattice","grid, stats, utils, grDevices, png, jpeg, RColorBrewer",NA,"maps, mapproj, deldir, tripack, quantreg, zoo, MASS, mgcv",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"lava","lava","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.6.9",NA,"R (>= 3.0)","grDevices, graphics, methods, numDeriv, stats, survival,
+SQUAREM, utils",NA,"KernSmooth, Matrix, Rgraphviz, data.table, ellipse, fields,
+foreach, geepack, gof (>= 0.9), graph, knitr, bookdown,
+rmarkdown, igraph (>= 0.6), lava.tobit (>= 0.4.7), lavaSearch2,
+lme4, magrittr, mets (>= 1.1), nlme, optimx, polycor, quantreg,
+rgl, R.rsp (>= 0.40), testthat (>= 0.11), visNetwork, zoo",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"lazyeval","lazyeval","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.2",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"libcoin","libcoin","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-8",NA,"R (>= 3.4.0)","stats, mvtnorm","mvtnorm","coin",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"lifecycle","lifecycle","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.0",NA,"R (>= 3.3)","glue, rlang (>= 0.4.10)",NA,"covr, crayon, knitr, rmarkdown, testthat (>= 3.0.1), tibble",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"lme4","lme4","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1-27",NA,"R (>= 3.2.0), Matrix (>= 1.2-1), methods, stats","graphics, grid, splines, utils, parallel, MASS, lattice, boot,
+nlme (>= 3.1-123), minqa (>= 1.1.15), nloptr (>= 1.0.4)","Rcpp (>= 0.10.5), RcppEigen","knitr, rmarkdown, PKPDmodels, MEMSS, testthat (>= 0.8.1),
+ggplot2, mlmRev, optimx (>= 2013.8.6), gamm4, pbkrtest, HSAUR3,
+numDeriv, car, dfoptim, mgcv, statmod, rr2, semEff",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"lmtest","lmtest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9-38",NA,"R (>= 3.0.0), stats, zoo","graphics",NA,"car, strucchange, sandwich, dynlm, stats4, survival, AER",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"lubridate","lubridate","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.7.10",NA,"methods, R (>= 3.2)","generics, Rcpp (>= 0.12.13)","Rcpp","covr, knitr, testthat (>= 2.1.0), vctrs (>= 0.3.0), rmarkdown","chron, timeDate, tis, zoo","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"magrittr","magrittr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.1",NA,NA,NA,NA,"covr, knitr, rlang, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"maps","maps","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.3.0",NA,"R (>= 3.0.0)","graphics, utils",NA,"mapproj (>= 1.2-0), mapdata (>= 2.3.0), sp, maptools,
+rnaturalearth",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"maptools","maptools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1-1",NA,"R (>= 2.10), sp (>= 1.0-11)","foreign (>= 0.8), methods, grid, lattice, stats, utils,
+grDevices",NA,"rgeos (>= 0.1-8), spatstat.geom (>= 1.65-0), PBSmapping,
+maps, RColorBrewer, raster, polyclip, plotrix, spatstat.linnet
+(>= 1.65-3), spatstat.utils (>= 1.19.0), spatstat (>= 2.0-0)","gpclib","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"markdown","markdown","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1",NA,"R (>= 2.11.1)","utils, xfun, mime (>= 0.3)",NA,"knitr, RCurl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"MASS","MASS","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","7.3-54","recommended","R (>= 3.3.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"Matrix","Matrix","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3-3","recommended","R (>= 3.5.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc, igraph, maptools, sp,
+spdep","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.1"
+"MatrixModels","MatrixModels","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5-0",NA,"R (>= 3.0.1)","stats, methods, Matrix (>= 1.1-5)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"matrixStats","matrixStats","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.58.0",NA,"R (>= 2.12.0)",NA,NA,"base64enc, ggplot2, knitr, microbenchmark, R.devices, R.rsp",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","3.6.1"
+"mclust","mclust","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","5.4.7",NA,"R (>= 3.0)","stats, utils, graphics, grDevices",NA,"knitr (>= 1.12), rmarkdown (>= 0.9), mix (>= 1.0), geometry
+(>= 0.3-6), MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"memoise","memoise","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.0",NA,NA,"rlang (>= 0.4.10), cachem",NA,"digest, aws.s3, covr, googleAuthR, googleCloudStorageR, httr,
+testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"methods","methods","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"mgcv","mgcv","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.8-35","recommended","R (>= 3.6.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"mime","mime","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.10",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.6.1"
+"miniUI","miniUI","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.1.1",NA,NA,"shiny (>= 0.13), htmltools (>= 0.3), utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"minqa","minqa","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.4",NA,NA,"Rcpp (>= 0.9.10)","Rcpp",NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"ModelMetrics","ModelMetrics","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.2.2",NA,"R (>= 3.2.2)","Rcpp, data.table","Rcpp","testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"modelr","modelr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.4",NA,"R (>= 3.1)","broom, dplyr, magrittr, purrr (>= 0.2.2), rlang (>= 0.2.0),
+tibble, tidyr (>= 0.8.0)",NA,"compiler, covr, ggplot2, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"modeltools","modeltools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2-23",NA,"stats, stats4","methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"mongolite","mongolite","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.1",NA,NA,"jsonlite (>= 1.4), openssl (>= 1.0), mime",NA,"spelling, nycflights13, ggplot2",NA,"Apache License 2.0",NA,NA,NA,NA,"yes","3.6.0"
+"multcomp","multcomp","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4-17",NA,"stats, graphics, mvtnorm (>= 1.0-10), survival (>= 2.39-4),
+TH.data (>= 1.0-2)","sandwich (>= 2.3-0), codetools",NA,"lme4 (>= 0.999375-16), nlme, robustbase, coin, MASS, foreign,
+xtable, lmtest, coxme (>= 2.2-1), SimComp, ISwR, tram (>=
+0.2-5)",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"multilevel","multilevel","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.6",NA,"R (>= 2.10), nlme, MASS",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"munsell","munsell","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.0",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"mvtnorm","mvtnorm","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1-1",NA,"R(>= 3.5.0)","stats, methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"nlme","nlme","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.1-152","recommended","R (>= 3.4.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.1"
+"nloptr","nloptr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.2.2",NA,NA,NA,NA,"testthat (>= 0.8.1), knitr, rmarkdown, inline (>= 0.3.14)",NA,"LGPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"nnet","nnet","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","7.3-16","recommended","R (>= 3.0.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"numDeriv","numDeriv","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2016.8-1.1",NA,"R (>= 2.11.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"odbc","odbc","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.5",NA,"R (>= 3.2.0)","DBI (>= 1.0.0),
+methods,
+Rcpp (>= 0.12.11),
+blob (>= 1.1.0),
+bit64,
+hms","Rcpp, BH","tibble,
+DBItest,
+testthat,
+covr,
+magrittr",NA,"MIT + file LICENSE",NA,NA,NA,NA,NA,"3.6.0"
+"OneR","OneR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.2",NA,"R (>= 2.10)",NA,NA,"knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"openssl","openssl","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.4",NA,NA,"askpass",NA,"testthat (>= 2.1.0), digest, knitr, rmarkdown, jsonlite,
+jose, sodium",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"openxlsx","openxlsx","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","4.2.3",NA,"R (>= 3.3.0)","grDevices, methods, Rcpp, stats, utils, zip, stringi","Rcpp","knitr, testthat, roxygen2, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"packrat","packrat","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.0",NA,"R (>= 3.0.0)","tools, utils",NA,"testthat (>= 0.7), devtools, httr, knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.0"
+"parallel","parallel","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"tools, compiler",NA,"methods","snow, nws, Rmpi","Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"partykit","partykit","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2-13",NA,"R (>= 3.5.0), graphics, grid, libcoin (>= 1.0-0), mvtnorm","grDevices, stats, utils, survival, Formula (>= 1.2-1), inum
+(>= 1.0-0), rpart (>= 4.1-11)",NA,"XML, pmml, rJava, sandwich, strucchange, vcd, AER, mlbench,
+TH.data (>= 1.0-3), coin (>= 1.1-0), RWeka (>= 0.4-19),
+datasets, parallel, psychotools (>= 0.3-0), psychotree, party
+(>= 1.3-0), randomForest",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"pbdZMQ","pbdZMQ","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3-3",NA,"R (>= 3.2.0)",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"pbkrtest","pbkrtest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.1",NA,"R (>= 3.5.0), lme4 (>= 1.1.10)","broom, dplyr, magrittr, MASS, Matrix (>= 1.2.3), methods,
+numDeriv, parallel, knitr",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"pillar","pillar","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.6.1",NA,NA,"cli, crayon (>= 1.3.4), ellipsis (>= 0.3.2), fansi, lifecycle,
+rlang (>= 0.3.0), utf8 (>= 1.1.0), utils, vctrs (>= 0.3.8)",NA,"bit64, debugme, DiagrammeR, dplyr, formattable, ggplot2,
+knitr, lubridate, nycflights13, palmerpenguins, rmarkdown,
+scales, stringi, survival, testthat (>= 3.0.2), tibble, units,
+withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"pkgbuild","pkgbuild","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.0",NA,"R (>= 3.1)","callr (>= 3.2.0), cli, crayon, desc, prettyunits, R6,
+rprojroot, withr (>= 2.1.2)",NA,"Rcpp, cpp11, testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"pkgconfig","pkgconfig","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.3",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"pkgload","pkgload","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.1",NA,NA,"cli, crayon, desc, methods, rlang, rprojroot, rstudioapi,
+utils, withr",NA,"bitops, covr, pkgbuild, Rcpp, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"PKI","PKI","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1-5.1",NA,"R (>= 2.9.0), base64enc",NA,NA,NA,"gmp","GPL-2 | GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"plogr","plogr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.0",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"plyr","plyr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.8.6",NA,"R (>= 3.1.0)","Rcpp (>= 0.11.0)","Rcpp","abind, covr, doParallel, foreach, iterators, itertools,
+tcltk, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"png","png","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1-7",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"polspline","polspline","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.19",NA,NA,"stats, graphics",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"prabclus","prabclus","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.3-2",NA,"R (>= 2.10), MASS, mclust",NA,NA,"spdep, spatialreg, bootstrap, maptools, foreign, mvtnorm",NA,"GPL",NA,NA,NA,NA,"no","3.6.1"
+"praise","praise","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"prettyunits","prettyunits","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.1",NA,NA,NA,NA,"codetools, covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"pROC","pROC","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.17.0.1",NA,"R (>= 2.14)","methods, plyr, Rcpp (>= 0.11.1)","Rcpp","microbenchmark, tcltk, MASS, logcondens, doParallel,
+testthat, vdiffr, ggplot2",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.6.1"
+"processx","processx","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.5.2",NA,NA,"ps (>= 1.2.0), R6, utils",NA,"callr (>= 3.2.0), cli, codetools, covr, curl, debugme,
+parallel, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"prodlim","prodlim","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2019.11.13",NA,"R (>= 2.9.0)","Rcpp (>= 0.11.5), stats, grDevices, graphics, survival,
+KernSmooth, lava","Rcpp",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"profvis","profvis","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.5",NA,"R (>= 3.0)","htmlwidgets (>= 0.3.2), stringr",NA,"knitr, ggplot2, rmarkdown, testthat, devtools",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"progress","progress","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.2",NA,NA,"hms, prettyunits, R6, crayon",NA,"Rcpp, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"promises","promises","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.1",NA,NA,"R6, Rcpp, later, rlang, stats, magrittr","later, Rcpp","testthat, future, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"proxy","proxy","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4-25",NA,"R (>= 3.4.0)","stats, utils",NA,"cba",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"ps","ps","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.6.0",NA,"R (>= 3.1)","utils",NA,"callr, covr, curl, pingr, processx (>= 3.1.0), R6, rlang,
+testthat, tibble",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"purrr","purrr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.4",NA,"R (>= 3.2)","magrittr (>= 1.5), rlang (>= 0.3.1)",NA,"covr, crayon, dplyr (>= 0.7.8), knitr, rmarkdown, testthat,
+tibble, tidyselect",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"quadprog","quadprog","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.5-8",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"quantmod","quantmod","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4-14",NA,"R (>= 3.2.0), xts(>= 0.9-0), zoo, TTR(>= 0.2), methods","curl",NA,"DBI,RMySQL,RSQLite,timeSeries,XML,downloader,jsonlite(>= 1.1)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"quantreg","quantreg","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","5.85",NA,"R (>= 2.6), stats, SparseM","methods, graphics, Matrix, MatrixModels, conquer",NA,"tripack, akima, MASS, survival, rgl, logspline, nor1mix,
+Formula, zoo, R.rsp",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"r2d3","r2d3","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.3",NA,"R (>= 3.1.2)","htmlwidgets (>= 1.2), htmltools, jsonlite, rstudioapi",NA,"knitr, rmarkdown, shiny, shinytest, testthat, webshot",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"R6","R6","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.5.0",NA,"R (>= 3.0)",NA,NA,"knitr, microbenchmark, pryr, testthat, ggplot2, scales",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"randomForest","randomForest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","4.6-14",NA,"R (>= 3.2.2), stats",NA,NA,"RColorBrewer, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"ranger","ranger","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.12.1",NA,"R (>= 3.1)","Rcpp (>= 0.11.2), Matrix","Rcpp, RcppEigen","survival, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"rappdirs","rappdirs","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.1",NA,"R (>= 2.14), methods",NA,NA,"testthat, roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"rbokeh","rbokeh","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.6.3",NA,NA,"R6,
+jsonlite,
+digest,
+methods,
+htmlwidgets,
+magrittr,
+curl,
+glue,
+rlang,
+scales,
+hexbin,
+lattice,
+maps",NA,"testthat,
+lintr,
+roxygen2 (>= 5.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"rcmdcheck","rcmdcheck","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.3",NA,NA,"callr (>= 3.1.1.9000), cli (>= 1.1.0), crayon, desc (>=
+1.2.0), digest, pkgbuild, prettyunits, R6, rprojroot,
+sessioninfo (>= 1.1.1), utils, withr, xopen",NA,"covr, knitr, mockery, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"RColorBrewer","RColorBrewer","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1-2",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.6.0"
+"Rcpp","Rcpp","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.6",NA,NA,"methods, utils",NA,"tinytest, inline, rbenchmark, pkgKitten (>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"RcppArmadillo","RcppArmadillo","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.10.5.0.0",NA,"R (>= 3.3.0)","Rcpp (>= 0.11.0), stats, utils, methods","Rcpp","tinytest, Matrix (>= 1.3.0), pkgKitten, reticulate, slam",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"RcppEigen","RcppEigen","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.3.9.1",NA,NA,"Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils","Rcpp","inline, tinytest, pkgKitten, microbenchmark",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"RcppRoll","RcppRoll","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.0",NA,"R (>= 2.15.1)","Rcpp","Rcpp","zoo, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"RCurl","RCurl","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.95-4.12",NA,"R (>= 3.0.0), methods, bitops",NA,NA,"Rcompression, XML",NA,"BSD",NA,NA,NA,NA,"yes","3.6.0"
+"readr","readr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.0",NA,"R (>= 3.1)","cli, clipr, crayon, hms (>= 0.4.1), methods, rlang, R6,
+tibble, utils, lifecycle","BH, cpp11","covr, curl, dplyr, knitr, rmarkdown, spelling, stringi,
+testthat, xml2",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"readxl","readxl","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.1",NA,NA,"cellranger, Rcpp (>= 0.12.18), tibble (>= 1.3.1), utils","progress, Rcpp","covr, knitr, rmarkdown, rprojroot (>= 1.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"recipes","recipes","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.16",NA,"R (>= 3.1), dplyr","ellipsis, generics (>= 0.1.0), glue, gower, ipred, lifecycle,
+lubridate, magrittr, Matrix, purrr (>= 0.2.3), rlang (>=
+0.4.0), stats, tibble, tidyr (>= 1.0.0), tidyselect (>= 1.1.0),
+timeDate, utils, withr",NA,"covr, ddalpha, dimRed (>= 0.2.2), fastICA, ggplot2, igraph,
+kernlab, knitr, modeldata, RANN, RcppRoll, rmarkdown, rpart,
+rsample, RSpectra, testthat (>= 2.1.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"rematch","rematch","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.1",NA,NA,NA,NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"rematch2","rematch2","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.2",NA,NA,"tibble",NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"remotes","remotes","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.3.0",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, codetools, curl, covr, git2r (>= 0.23.0), knitr,
+mockery, pkgbuild (>= 1.0.1), pingr, rmarkdown, rprojroot,
+testthat, webfakes, withr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"repr","repr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.19.2",NA,"R (>= 3.0.1)","utils, grDevices, htmltools, jsonlite, base64enc",NA,"methods, highr, Cairo, stringr, testthat, leaflet","data.table, dplyr, htmlwidgets, vegalite, plotly, geojsonio","GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"reprex","reprex","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.1",NA,"R (>= 3.1)","callr (>= 2.0.0), clipr (>= 0.4.0), fs, rlang, rmarkdown,
+tools, utils, whisker, withr",NA,"covr, devtools, fortunes, knitr, miniUI, rprojroot,
+rstudioapi, shiny, styler (>= 1.0.2), testthat (>= 2.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"reshape2","reshape2","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.4",NA,"R (>= 3.1)","plyr (>= 1.8.1), Rcpp, stringr","Rcpp","covr, lattice, testthat (>= 0.8.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"rio","rio","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.5.26",NA,"R (>= 2.15.0)","tools, stats, utils, foreign, haven (>= 1.1.2), curl (>= 0.6),
+data.table (>= 1.9.8), readxl (>= 0.1.1), openxlsx, tibble",NA,"datasets, bit64, testthat, knitr, magrittr, arrow, clipr,
+feather, fst, hexView, jsonlite, pzfx, readODS (>= 1.6.4),
+readr, rmarkdown, rmatio, xml2 (>= 1.2.0), yaml",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"rJava","rJava","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.9-11",NA,"R (>= 2.5.0), methods",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"RJDBC","RJDBC","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2-7.1",NA,"methods, DBI, rJava (>= 0.4-15), R (>= 2.4.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"RJSONIO","RJSONIO","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3-1.1",NA,NA,"methods",NA,NA,NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"rlang","rlang","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4.11",NA,"R (>= 3.3.0)","utils",NA,"cli, covr, crayon, glue, magrittr, methods, pak, pillar,
+rmarkdown, testthat (>= 3.0.0), vctrs (>= 0.2.3), withr","winch","MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"rmarkdown","rmarkdown","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.12",NA,"R (>= 3.0)","tools, utils, knitr (>= 1.22), yaml (>= 2.1.19), htmltools (>=
+0.3.5), evaluate (>= 0.13), base64enc, jsonlite, mime, tinytex
+(>= 0.11), methods, stringr (>= 1.2.0)",NA,"shiny (>= 0.11), tufte, testthat, digest, dygraphs, tibble,
+fs, callr (>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"rms","rms","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","6.2-0",NA,"R (>= 3.5.0), Hmisc (>= 4.3-0), survival (>= 3.1-12), lattice,
+ggplot2 (>= 2.2), SparseM","methods, quantreg, rpart, nlme (>= 3.1-123), polspline,
+multcomp, htmlTable (>= 1.11.0), htmltools, MASS, cluster,
+digest",NA,"boot, tcltk, plotly (>= 4.5.6), knitr, mice, rmsb",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"Rnalytica","Rnalytica","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.1",NA,NA,"Hmisc, car, rms, C50, caret, dendextend, pROC, reshape2,
+foreign, DMwR, doParallel, ranger, e1071, foreach",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"robustbase","robustbase","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.93-7",NA,"R (>= 3.1.0)","stats, graphics, utils, methods, DEoptimR",NA,"grid, MASS, lattice, boot, cluster, Matrix, robust,
+fit.models, MPV, xtable, ggplot2, GGally, RColorBrewer,
+reshape2, sfsmisc, catdata, doParallel, foreach, skewt","robustX, rrcov, matrixStats, quantreg, Hmisc","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"ROCR","ROCR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-11",NA,"R (>= 3.6)","methods, graphics, grDevices, gplots, stats",NA,"testthat, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"roxygen2","roxygen2","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","7.1.1",NA,"R (>= 3.2)","brew, commonmark, desc (>= 1.2.0), digest, knitr, methods,
+pkgload (>= 1.0.2), purrr (>= 0.3.3), R6 (>= 2.1.2), Rcpp (>=
+0.11.0), rlang, stringi, stringr (>= 1.0.0), utils, xml2","Rcpp","covr, devtools, rmarkdown, testthat (>= 2.1.0), R.methodsS3,
+R.oo",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"rpart","rpart","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","4.1-15",NA,"R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"rprojroot","rprojroot","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.2",NA,"R (>= 3.0.0)",NA,NA,"covr, knitr, lifecycle, mockr, rmarkdown, testthat (>=
+3.0.0), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"rsconnect","rsconnect","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.8.13",NA,"R (>= 3.0.0)","openssl, RCurl, jsonlite, packrat (>= 0.4.8-1), yaml (>=
+2.1.5), rstudioapi (>= 0.5)",NA,"knitr, testthat, rmarkdown (>= 1.1), plumber (>= 0.3.2),
+reticulate, shiny, sourcetools, xtable",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.0"
+"rstudioapi","rstudioapi","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.13",NA,NA,NA,NA,"testthat, knitr, rmarkdown, clipr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"rversions","rversions","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.0",NA,NA,"curl, utils, xml2 (>= 1.0.0)",NA,"mockery, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"rvest","rvest","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.3",NA,"R (>= 3.1), xml2","httr (>= 0.5), magrittr, selectr",NA,"covr, knitr, png, rmarkdown, spelling, stringi (>= 0.3.1),
+testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"sandwich","sandwich","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.0-1",NA,"R (>= 3.0.0)","stats, utils, zoo",NA,"AER, car, geepack, lattice, lmtest, MASS, multiwayvcov,
+parallel, pcse, plm, pscl, scatterplot3d, stats4, strucchange,
+survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"scales","scales","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.1",NA,"R (>= 3.2)","farver (>= 2.0.3), labeling, lifecycle, munsell (>= 0.5), R6,
+RColorBrewer, viridisLite",NA,"bit64, covr, dichromat, ggplot2, hms (>= 0.5.0), testthat (>=
+2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"ScottKnottESD","ScottKnottESD","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.3",NA,"reshape2, effsize, stats, car","forecast",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"selectr","selectr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4-1",NA,"R (>= 3.0)","methods, stringr, R6",NA,"testthat, XML, xml2",NA,"BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","3.6.0"
+"sessioninfo","sessioninfo","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.1",NA,NA,"cli, tools, utils, withr",NA,"callr, covr, mockery, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.6.1"
+"shiny","shiny","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3.2",NA,"R (>= 3.0.2), methods","utils, grDevices, httpuv (>= 1.5.0), mime (>= 0.3), jsonlite
+(>= 0.9.16), xtable, digest, htmltools (>= 0.3.6), R6 (>= 2.0),
+sourcetools, later (>= 0.7.2), promises (>= 1.0.1), tools,
+crayon, rlang",NA,"datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+markdown, rmarkdown, ggplot2, reactlog (>= 1.0.0), magrittr",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"sourcetools","sourcetools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1.7",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"sp","sp","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4-5",NA,"R (>= 3.0.0), methods","utils, stats, graphics, grDevices, lattice, grid",NA,"RColorBrewer, rgdal (>= 1.2-3), rgeos (>= 0.3-13), gstat,
+maptools, deldir",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"sparklyr","sparklyr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.0",NA,"R (>= 3.2)","assertthat, base64enc, config (>= 0.2), DBI (>= 0.6-1), dplyr
+(>= 0.7.2), dbplyr (>= 1.1.0), digest, forge, generics, httr
+(>= 1.2.1), jsonlite (>= 1.4), methods, openssl (>= 0.8),
+purrr, r2d3, rappdirs, rlang (>= 0.1.4), rprojroot, rstudioapi
+(>= 0.6), tibble, tidyr, withr, xml2, ellipsis (>= 0.1.0)",NA,"broom, ggplot2, glmnet, janeaustenr, Lahman, mlbench, nnet,
+nycflights13, R6, RCurl, reshape2, shiny (>= 1.0.1), testthat",NA,"Apache License 2.0 | file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"SparseM","SparseM","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.81",NA,"R (>= 2.15), methods","graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"spatial","spatial","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","7.3-11",NA,"R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.0"
+"splines","splines","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"SQUAREM","SQUAREM","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2021.1",NA,"R (>= 3.0)",NA,NA,"setRNG",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"stats","stats","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"stats4","stats4","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"stringi","stringi","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.6.2",NA,"R (>= 3.1)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.6.1"
+"stringr","stringr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.4.0",NA,"R (>= 3.1)","glue (>= 1.2.0), magrittr, stringi (>= 1.1.7)",NA,"covr, htmltools, htmlwidgets, knitr, rmarkdown, testthat",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"survival","survival","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.2-11","recommended","R (>= 3.5.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"sys","sys","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.2",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"tcltk","tcltk","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,"utils",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"testthat","testthat","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.0.2",NA,"R (>= 3.1)","brio, callr (>= 3.5.1), cli (>= 2.2.0), crayon (>= 1.3.4),
+desc, digest, ellipsis (>= 0.2.0), evaluate, jsonlite,
+lifecycle, magrittr, methods, pkgload, praise, processx, ps (>=
+1.3.4), R6 (>= 2.2.0), rlang (>= 0.4.9), utils, waldo (>=
+0.2.4), withr (>= 2.3.0)",NA,"covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), knitr, mockery,
+rmarkdown, rstudioapi, shiny, usethis, vctrs (>= 0.1.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"TH.data","TH.data","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0-10",NA,"R (>= 2.10.0), survival, MASS",NA,NA,"dplyr, gdata, plyr",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"tibble","tibble","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.1.2",NA,"R (>= 3.1.0)","ellipsis (>= 0.3.2), fansi (>= 0.4.0), lifecycle (>= 0.2.0),
+magrittr, methods, pillar (>= 1.6.0), pkgconfig, rlang (>=
+0.4.3), utils, vctrs (>= 0.3.8)",NA,"bench, bit64, blob, cli, covr, crayon (>= 1.3.4), DiagrammeR,
+dplyr, evaluate, formattable, ggplot2, hms, htmltools, knitr,
+lubridate, mockr, nycflights13, purrr, rmarkdown, testthat (>=
+3.0.2), tidyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tidyr","tidyr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.3",NA,"R (>= 3.1)","dplyr (>= 0.8.2), ellipsis (>= 0.1.0), glue, lifecycle,
+magrittr, purrr, rlang, tibble (>= 2.1.1), tidyselect (>=
+1.1.0), utils, vctrs (>= 0.3.6)","cpp11 (>= 0.2.6)","covr, data.table, jsonlite, knitr, readr, repurrrsive (>=
+1.0.0), rmarkdown, testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tidyselect","tidyselect","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.1.1",NA,"R (>= 3.2)","ellipsis, glue (>= 1.3.0), purrr (>= 0.3.2), rlang (>= 0.4.6),
+vctrs (>= 0.3.0)",NA,"covr, crayon, dplyr, knitr, magrittr, rmarkdown, testthat (>=
+2.3.0), tibble (>= 2.1.3), withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"tidyverse","tidyverse","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.1",NA,NA,"broom (>= 0.4.2), cli (>= 1.0.0), crayon (>= 1.3.4), dplyr (>=
+0.7.4), dbplyr (>= 1.1.0), forcats (>= 0.2.0), ggplot2 (>=
+2.2.1), haven (>= 1.1.0), hms (>= 0.3), httr (>= 1.3.1),
+jsonlite (>= 1.5), lubridate (>= 1.7.1), magrittr (>= 1.5),
+modelr (>= 0.1.1), purrr (>= 0.2.4), readr (>= 1.1.1), readxl
+(>= 1.0.0), reprex (>= 0.1.1), rlang (>= 0.1.4), rstudioapi (>=
+0.7), rvest (>= 0.3.2), stringr (>= 1.2.0), tibble (>= 1.3.4),
+tidyr (>= 0.7.2), xml2 (>= 1.1.1)",NA,"feather (>= 0.3.1), knitr (>= 1.17), rmarkdown (>= 1.7.4)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"timeDate","timeDate","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3043.102",NA,"R (>= 2.15.1), graphics, utils, stats, methods",NA,NA,"date, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"tinytex","tinytex","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.12",NA,NA,"xfun (>= 0.5)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.0"
+"tools","tools","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,"codetools, methods, xml2, curl, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"tseries","tseries","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.10-48",NA,"R (>= 2.10.0)","graphics, stats, utils, quadprog, zoo, quantmod (>= 0.4-9)",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"TTR","TTR","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.23-4",NA,NA,"xts (>= 0.10-0), zoo, curl","xts","RUnit","quantmod","GPL-2",NA,NA,NA,NA,"yes","3.6.0"
+"urca","urca","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.3-0",NA,"R (>= 2.0.0), methods","nlme, graphics, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"usethis","usethis","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.0.1",NA,"R (>= 3.2)","cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
+1.3.0), gert (>= 1.0.2), gh (>= 1.2.0), glue (>= 1.3.0),
+jsonlite, lifecycle, purrr, rappdirs, rlang (>= 0.4.10),
+rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr
+(>= 2.3.0), yaml",NA,"covr, knitr, magick, mockr, rmarkdown, roxygen2, spelling (>=
+1.2), styler (>= 1.2.0), testthat (>= 3.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"utf8","utf8","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.1",NA,"R (>= 2.10)",NA,NA,"covr, knitr, rlang, rmarkdown, testthat (>= 3.0.0)",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"utils","utils","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","3.6.1","base",NA,NA,NA,"methods, xml2, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"uuid","uuid","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.1-2",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"vctrs","vctrs","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3.8",NA,"R (>= 3.3)","ellipsis (>= 0.2.0), glue, rlang (>= 0.4.10)",NA,"bit64, covr, crayon, dplyr (>= 0.8.5), generics, knitr,
+pillar (>= 1.4.4), pkgdown, rmarkdown, testthat (>= 2.3.0),
+tibble, withr, xml2, waldo (>= 0.2.0), zeallot",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"viridis","viridis","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.6.1",NA,"R (>= 2.10), viridisLite (>= 0.4.0)","stats, ggplot2 (>= 1.0.1), gridExtra",NA,"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown, rgdal",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"viridisLite","viridisLite","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.4.0",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"waldo","waldo","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.2.5",NA,NA,"cli, diffobj, fansi, glue, methods, rematch2, rlang (>=
+0.4.10), tibble",NA,"testthat (>= 3.0.0), covr, R6",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"whisker","whisker","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.3-2",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.0"
+"withr","withr","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.4.2",NA,"R (>= 3.2.0)","graphics, grDevices, stats",NA,"covr, DBI, knitr, lattice, methods, rmarkdown, RSQLite,
+testthat (>= 2.1.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"xfun","xfun","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.23",NA,NA,"stats, tools",NA,"testit, parallel, codetools, rstudioapi, tinytex (>= 0.30),
+mime, markdown, knitr, htmltools, remotes, pak, renv, curl,
+jsonlite, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"xml2","xml2","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.2.0",NA,"R (>= 3.1.0)","Rcpp","Rcpp (>= 0.12.12)","testthat, curl, covr, knitr, rmarkdown, magrittr, httr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"xopen","xopen","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.0.0",NA,"R (>= 3.1)","processx",NA,"ps, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"xtable","xtable","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.8-4",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.0"
+"xts","xts","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","0.11-2",NA,"zoo (>= 1.7-12)","methods","zoo","timeSeries, timeDate, tseries, chron, fts, tis, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"yaml","yaml","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.2.1",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"zip","zip","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","2.1.1",NA,NA,NA,NA,"covr, processx, R6, testthat, withr",NA,"CC0",NA,NA,NA,NA,"yes","3.6.1"
+"zoo","zoo","/Users/jpasuksmit/anaconda3/envs/TEST/lib/R/library","1.8-9",NA,"R (>= 3.1.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"AER, coda, chron, fts, ggplot2 (>= 3.0.0), mondate, scales,
+stinepack, strucchange, timeDate, timeSeries, tis, tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
