@@ -2,22 +2,19 @@
 
 A replication package for a journal paper entitled "Understanding and Predicting the change of Story Points".
 
-This package consists of two parts:
+This package contains two main parts:
 
 1) 'data'
-- chart: Charts used to present our study results. Mostly produced by our R scripts.
-analysis. The results were derived from DM, MU, TI, and XD datasets.
 - issueLists: List of work items used in this study.
 - reverted: Information extracted from JIRA for each projects. The information of each work items is reverted to the time when they are assigned to a sprint (+1 hour).
 - rq2_inprogresstime: the duration that a work item's status was set to 'in progress'
 - rq3_coding_result: Outcome of our open coding and manual classifications in RQ3-Qualitative 
 - rq4_feature: Feature extracted from work items to be used to train the classifiers in RQ4
 - rq4_metrics_influence: A list of metrics ranked by how much each of them influencing the model's prediction.
-- rq4_model: Trained model in RQ4. 
-- rq4_performance: Performance of the model (for each model and averagely). The performance is calculated for each of the 100 models (built based on each bootstrap dataset).
+- rq4_model: Trained models in RQ4.
+- rq4_performance: Performance of the model (for each model and mean value). The performance is calculated for each of the 100 models (built based on each bootstrap dataset).
 
 2) 'rscript'
-
 - RQ2_relationship_sp_devtime.R: Statistics summary of our models in RQ2.
 - RQ3_infochange.R: The contingency table of the work items with changed story points and the work items with changed information (with Fisher's exact test).
 - RQ4.R: Builds OneR (baseline), Logistic Regression, Support Vector Machine, and Random Forest classifiers
@@ -56,14 +53,12 @@ Main package required:
 - rlang 0.4.11 
 - ScottKnottESD 2.0.3
 
-
-And install Rnalytica 0.1.1
-To do so, follow these instructions:
-1) Install devtools 2.4.1
-2) Install DMwR from the file
-- RUN install.packages('[PATH_TO_THIS_PACKPAGE]/DMwR_0.4.1.tar.gz', repos = NULL, type="source")
-3) Install Rnalytica using devtools
-- RUN devtools::install_github('software-analytics/Rnalytica')
+After that, install Rnalytica 0.1.1 using these following instructions:
+1) Install R package "devtools" 2.4.1
+2) Install DMwR from the file by ...
+- RUN R command: install.packages('[PATH_TO_THIS_PACKPAGE]/DMwR_0.4.1.tar.gz', repos = NULL, type="source")
+3) Install Rnalytica using devtools by ..
+- RUN R command: devtools::install_github('software-analytics/Rnalytica')
 
 
 Full list of installed packages can be found in R-requirements.csv
