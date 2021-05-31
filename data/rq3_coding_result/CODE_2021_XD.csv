@@ -1,0 +1,118 @@
+issue_key,sp_fluctuate,code,evidence
+XD-106,FALSE,task changed,server to work on changed from XDAdmin to Container server
+XD-109,FALSE,task removed,scope reduced as redis is removed
+XD-1148,FALSE,rephrasing,add a word ('option') to elaborate
+XD-1420,FALSE,typo,chances > changes
+XD-1173,FALSE,text formatting,remove newline
+XD-1186,FALSE,rephrasing,"This is rephrasing because ""support use of application.yml"" is the main goal. The removed phrase ""separate ..."" is not the main goal regarding the description"
+XD-1199,FALSE,task changed,update doc instead of old 2 tasks
+XD-1419,FALSE,typo,jppml > jpmml
+XD-1420,FALSE,typo,capitalize jpmml > JPMML
+XD-1421,FALSE,text formatting,text formatting
+XD-1455,FALSE,rephrasing,"remove ""Also"""
+XD-1462,FALSE,rephrasing,rephrase summary without changing task
+XD-1565,FALSE,UNKNOWN,not enough context
+XD-159,FALSE,rephrasing,rephrase summary
+XD-1650,FALSE,rephrasing,remove detail from summary
+XD-170,FALSE,additional details,Add example of the expected outcome
+XD-1729,FALSE,additional details,"define the second half dependencies as ""minor changes"" and update the targeted system version number."
+XD-1777,FALSE,rephrasing,rephrase summary
+XD-1853,FALSE,rephrasing,"rephrase summary, the removed detail is already noted in the description"
+XD-1894,FALSE,rephrasing,changing word from performance tuning > best practices
+XD-1909,FALSE,additional details,spring cell sub-version changed
+XD-1979,FALSE,rephrasing,rephrase summary from OB to requirement
+XD-2003,FALSE,rephrasing,"add ""In EC2 deployment"" in the summary (already stated in the description)"
+XD-2044,FALSE,rephrasing,rephrase summary (Create a > Add)
+XD-2044,FALSE,additional details,add user story and reference
+XD-206,FALSE,rephrasing,"rephrase summary, ""should always prefer"" changed to ""should check"", and add 'containermain' (stated in the description)"
+XD-2118,FALSE,rephrasing,"rephrase summary (add 'and sink', which is already stated in the description)"
+XD-2122,FALSE,additional details,"originally the issue does not have clear scope of what role should have access control (i.e., ""Who can ...""), then the description was changed to indicate that such roles are Admin or Viewer."
+XD-2271,FALSE,additional details,specify the version to add (RC)
+XD-2299,FALSE,UNKNOWN,The task is just a placeholders with no description defined.
+XD-2304,FALSE,additional details,Task changed from refector to research (spike) of the original task. The spike scope also defined in the description but doesnt count because the task was changed.
+XD-2381,FALSE,task removed,subtask was removed.
+XD-2471,FALSE,issue organization,
+XD-2473,FALSE,issue organization,
+XD-2544,FALSE,UNKNOWN,It is unknown if PerfSource is similar to loadGenerator or not
+XD-2547,FALSE,task changed,task changed from changing convention to dropping any name convention
+XD-2624,FALSE,typo,`tests` is missing
+XD-2646,FALSE,rephrasing,"rephrase summary, SHDP > Spring for Apache Hadoop"
+XD-2664,FALSE,task changed,"decided to implement using spark, old task (""create samples..."") changed to spark-related task"
+XD-297,FALSE,rephrasing,"changing (""source"" -> ""sink"") in summary without changing main task"
+XD-305,FALSE,UNKNOWN,"note that this issue is handled by another issue, however it is not fall in any category since it is not adding anything for implementation"
+XD-3106,FALSE,typo,confuguration > configuration
+XD-3172,FALSE,rephrasing,call `deployment property` as `source option`
+XD-3196,FALSE,additional details,Specify branch to move to
+XD-3198,FALSE,rephrasing,"rephrase summary, The changed module name in summary was stated in the description"
+XD-3228,FALSE,task changed,Whole task changed from developing to spike. (user story was also changed but didnt count since the whole task was changed)
+XD-3229,FALSE,task changed,"Scope changed from ""a service to discover endpoint"" to ""a self-registering module""."
+XD-3232,FALSE,task added,"Add 2 new task to update version of sprint framework, AMQP, and batch"
+XD-3464,FALSE,text formatting,"text formatting, change "", ', and -"
+XD-3492,FALSE,additional details,add user story
+XD-3492,FALSE,text formatting,add '-'
+XD-3493,FALSE,task changed,"Main task is to update dependencies. One of the module was changed (from ""Springboot"" to ""Spring""), Hence the subtask of task is changed."
+XD-353,FALSE,task changed,"Task was changed from cleaningup ""configuration management"" to ""spring configuration"""
+XD-3556,FALSE,rephrasing,Rephrase the user story (EB) from develop POV to system POV
+XD-3556,FALSE,additional details,Add task description
+XD-3581,FALSE,additional details,add new information (Tuple and JSON) and user story
+XD-3629,FALSE,rephrasing,elaborate summary
+XD-364,FALSE,UNKNOWN,not enough context
+XD-3698,FALSE,rephrasing,"elaborate summary for clearer understanding (job > jobs, add 'scope')"
+XD-3738,FALSE,rephrasing,rephrase summary to remove user story from summary
+XD-397,FALSE,rephrasing,"rephrase summary (""add a chapter"" to ""document ..."")"
+XD-45,FALSE,task changed,"task changed from ""replacing the old code with new library call"" to ""remove the whole function from Redis based repo"""
+XD-467,FALSE,typo,Subsequent
+XD-467,FALSE,additional details,add steps2reproduce
+XD-500,FALSE,additional details,team discovered that it's 4xx instead of 404 (see comment)
+XD-531,FALSE,task changed,"whole task changed from ""integration test"" > ""check for high cpu usage"""
+XD-553,FALSE,rephrasing,"rephrase summary, (coz detail has already stated in the description)"
+XD-689,FALSE,additional details,"elaborate conversion>serialization/deserialization, JSON string to accepted Java type > Message payloads across JVMs, update example codes"
+XD-87,FALSE,rephrasing,rephrase summary
+XD-947,FALSE,task removed,removed as it was resolved in other stories
+XD-2358,FALSE,rephrasing,rephrase summary
+XD-2358,FALSE,additional details,add expected behavior of the function
+XD-2510,FALSE,additional details,add stracktraces
+XD-1223,TRUE,additional details,"There is nothing in the description define the scope (unit or integration tests). However, the main task is remain as ""clean data if tests fail"". So whats changed in the summary is just additional detail that the fail test includes integration tests as well."
+XD-125,TRUE,text formatting,just an empty line removed
+XD-1337,TRUE,rephrasing,"rephrase summary, partitioning > stream partitioning"
+XD-1338,TRUE,rephrasing,"summary rephrase, hint > deployment manifest (and description is the same)"
+XD-1375,TRUE,task changed,create doc > create spike
+XD-1476,TRUE,task changed,create doc > update doc based on RC1 changes
+XD-1503,TRUE,rephrasing,module deployment > modules
+XD-1510,TRUE,task added,`reduce amount` also include (see comment) WARN level comments too
+XD-1727,TRUE,task added,"Add additional task to ""add confirm action ..."""
+XD-2060,TRUE,text formatting,_JDBC_
+XD-2061,TRUE,text formatting,_Redis_
+XD-2113,TRUE,additional details,"it just fail on the hour, not day/month/etc"
+XD-2216,TRUE,task added,add 2 subtasks to upgrade SI and SA
+XD-2230,TRUE,typo,Trasnform > transform
+XD-2253,TRUE,task removed,topology to consider was moved into other tasks (see comment)
+XD-2298,TRUE,rephrasing,just rephrase summary. It is still a spike task
+XD-2298,TRUE,additional details,remove spike scope from description
+XD-2401,TRUE,task changed,"Not include DIRT test anymore, but generally improve EC2 CI building process, many subtasks added to define the scope of work"
+XD-2403,TRUE,task changed,"create windows CI > spike, and add scope of the task"
+XD-2432,TRUE,UNKNOWN,define a task (was issue placeholder)
+XD-2433,TRUE,UNKNOWN,add task (was an issue placeholder)
+XD-2542,TRUE,task removed,Sink module was removed from the scope
+XD-2548,TRUE,additional details,define scope of the task
+XD-2630,TRUE,task changed,"Task was changed from ""spike"" > ""add plugin"". User story is also rephrased."
+XD-2651,TRUE,task changed,Change from implementation to spike
+XD-2654,TRUE,typo,my > might
+XD-2743,TRUE,UNKNOWN,add a task (was just a placeholder issue without any specfiic task)
+XD-282,TRUE,additional details,Define scope of the task
+XD-2957,TRUE,task added,add `create samples` (not stated in description)
+XD-2979,TRUE,additional details,The scopes just got removed
+XD-2979,TRUE,typo,Java > java
+XD-30,TRUE,rephrasing,add 'service'
+XD-3125,TRUE,rephrasing,"rephrase summary, explain root cause"
+XD-3218,TRUE,rephrasing,rephrase summary
+XD-3218,TRUE,issue organization,[Backport]
+XD-3259,TRUE,task changed,"Task changed from ""move module from A to B"" to ""rename properties"""
+XD-3315,TRUE,UNKNOWN,dont know what 'sink' is. may be a mistype or info that got removed
+XD-3344,TRUE,additional details,add general detail about the issue itself
+XD-3369,TRUE,additional details,"clarify summary, change word 'module' to a specific module named 'sink'"
+XD-3370,TRUE,task removed,remove SFTP from scope
+XD-3672,TRUE,task changed,change from 'move to master' to 'separate repo' (This must be a big scope change. Thus it is task changed)
+XD-55,TRUE,rephrasing,rephrase summary
+XD-592,TRUE,rephrasing,rephrase summary (advanced tapping)
+XD-592,TRUE,text formatting,text formatting

@@ -1,0 +1,92 @@
+issue_key,sp_fluctuate,code,evidence
+TIMOB-15718,FALSE,issue organization,Android:
+TIMOB-17567,FALSE,typo,
+TIMOB-17918,FALSE,additional details,add link and define the scope of task
+TIMOB-18599,FALSE,rephrasing,add `add`
+TIMOB-19052,FALSE,typo,build > crate
+TIMOB-19085,FALSE,additional details,add observed behavior
+TIMOB-19119,FALSE,additional details,change code detail
+TIMOB-19151,FALSE,text formatting,text formatting
+TIMOB-19151,FALSE,issue organization,ios9
+TIMOB-19187,FALSE,rephrasing,Hub Control > TabGroup
+TIMOB-19356,FALSE,issue organization,iOS9
+TIMOB-19577,FALSE,additional details,"(probably wrong detail) Facebook SDK 4.7 release on 10 Sep 15, which is 14 days before issue created, they should've update it to the latest version. so I mark it as wrong info"
+TIMOB-19682,FALSE,additional details,add example code
+TIMOB-19692,FALSE,rephrasing,"rephrase summary (ensure > maake, works > work), note that refactor outdated methods is not a new task becuase it was stated in the 3) ""fix all deprecated warnings"""
+TIMOB-19692,FALSE,additional details,"change stable branch to master branch, add more info to todo-list"
+TIMOB-19777,FALSE,typo,
+TIMOB-20055,FALSE,task added,"add ""- Enable ARC in all related files (!)"""
+TIMOB-20078,FALSE,text formatting,rephrase summary
+TIMOB-20167,FALSE,additional details,"add (""on surface pro 3"")"
+TIMOB-20228,FALSE,additional details,"(probably wrong detail) the correct requirement is Xcode, not iOS Sdk verison (stated in comment)"
+TIMOB-20405,FALSE,additional details,add expected behavior
+TIMOB-20496,FALSE,additional details,add reason why they need this function
+TIMOB-23225,FALSE,issue organization,
+TIMOB-23264,FALSE,additional details,information added that they have to support legacy pattern.
+TIMOB-23319,FALSE,additional details,change example code
+TIMOB-23374,FALSE,typo,
+TIMOB-23454,FALSE,additional details,add detail on expected behavior
+TIMOB-23546,FALSE,additional details,change observed behavior and update code
+TIMOB-23557,FALSE,additional details,"change/add detials, add steps and code"
+TIMOB-23573,FALSE,additional details,example code added
+TIMOB-23657,FALSE,additional details,"change OB, added test case (code), add expected behaviors"
+TIMOB-23709,FALSE,rephrasing,"rephrase summary (The removed text ""fix master branch"" still in the description)"
+TIMOB-23752,FALSE,additional details,note removed
+TIMOB-23797,FALSE,additional details,add issue 23799 as a reference
+TIMOB-23866,FALSE,text formatting,
+TIMOB-23881,FALSE,additional details,"step2reproduce, expected behaviors, observed behaviors"
+TIMOB-24034,FALSE,additional details,add one more solution and add detail to the 2nd solution
+TIMOB-24135,FALSE,additional details,remove one line of code
+TIMOB-24252,FALSE,additional details,add code
+TIMOB-24331,FALSE,additional details,change code detail
+TIMOB-24438,FALSE,additional details,"(probably wrong detail) wrong info because their app still use API23, no chance to use appcompat25"
+TIMOB-24454,FALSE,additional details,add testcase link
+TIMOB-24611,FALSE,rephrasing,"add <packagedependency> to summary, which already noted in the description"
+TIMOB-24793,FALSE,additional details,edit example code
+TIMOB-24863,FALSE,additional details,explain root cause instead of the error
+TIMOB-25274,FALSE,rephrasing,in code: row > newrow 
+TIMOB-25275,FALSE,additional details,code added
+TIMOB-25298,FALSE,rephrasing,elaborate observed behavior in summary
+TIMOB-25405,FALSE,issue organization,
+TIMOB-25405,FALSE,additional details,add steps to reproduce
+TIMOB-25469,FALSE,text formatting,
+TIMOB-25533,FALSE,issue organization,Android:
+TIMOB-25533,FALSE,additional details,explain expected behavior instead of observed behavior in summary
+TIMOB-25617,FALSE,rephrasing,rephrase summary
+TIMOB-25757,FALSE,issue organization,android
+TIMOB-25908,FALSE,typo,"import, .*"
+TIMOB-25919,FALSE,rephrasing,rephrase summary
+TIMOB-25983,FALSE,typo,createtextarea > textarea
+TIMOB-26109,FALSE,additional details,add link to bug report ticket
+TIMOB-26278,FALSE,rephrasing,rephrase summary
+TIMOB-26340,FALSE,additional details,"change runtime version to be updated to. This is just additional details because the main task is to update V8 runtime to the newest stable one, change the target version is not changing the main intention of the task"
+TIMOB-26427,FALSE,additional details,"change UI element and add example while the main task still be ""add support for ""ExtendSafeArea"""
+TIMOB-26550,FALSE,rephrasing,rephrase from OB to requirement
+TIMOB-26562,FALSE,task added,"add 1 removing constant (as this may create more work in refactoring, we consider it as subtasks adding)"
+TIMOB-26826,FALSE,additional details,add testcase
+TIMOB-25537,FALSE,additional details,change target timeframe from release 6.2 to 7.4
+TIMOB-24134,FALSE,additional details,change example code
+TIMOB-25733,FALSE,rephrasing,rephrase summary (info was stated in the description)
+TIMOB-25865,FALSE,additional details,change specific user name to 'user' for a better understanding
+TIMOB-24984,FALSE,additional details,add example code
+TIMOB-15249,TRUE,rephrasing,rephrase summary
+TIMOB-17924,TRUE,task added,add (1) failing task to fix and (2) task to add comments about armv7s
+TIMOB-18062,TRUE,additional details,add implementation step to deprecate old AttributedString
+TIMOB-18678,TRUE,additional details,add root cause with example code
+TIMOB-18678,TRUE,rephrasing,rephrase summary (it was already stated in original description)
+TIMOB-18905,TRUE,task added,add a task to update alert dialog with material design
+TIMOB-19733,TRUE,additional details,add demo code
+TIMOB-20180,TRUE,issue organization,iOS
+TIMOB-20272,TRUE,typo,"don't ""work"" is missing"
+TIMOB-23156,TRUE,additional details,add test case and expected behavior
+TIMOB-23247,TRUE,additional details,"(probably wrong detail) does work > does not work, windows > CLI"
+TIMOB-23627,TRUE,additional details,add a key that is part of the root cause
+TIMOB-24422,TRUE,additional details,add root cause with steps2reproduce
+TIMOB-24851,TRUE,task changed,Main task changed from disable wordwrap to deprecate wordwrap. This change was made in both description and the summary.
+TIMOB-25048,TRUE,task changed,"Scope increased from only support Android to support TiAPI (i.e., both Android and iOS). However, supporting TiAPI is likely to be one task (instead of 1 task for iOS and 1 task for Android), so this is task changed (from from Android to both)"
+TIMOB-25353,TRUE,task changed,move play services into module instead of just include (import)
+TIMOB-25844,TRUE,typo,splash
+TIMOB-25890,TRUE,additional details,example code changed
+TIMOB-26086,TRUE,additional details,edit example code
+TIMOB-26498,TRUE,task added,"scope expanded, listview support alloy widgets too."
+TIMOB-26498,TRUE,additional details,add detail of the task with example and code update

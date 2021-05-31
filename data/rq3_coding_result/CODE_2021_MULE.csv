@@ -1,0 +1,127 @@
+issue_key,sp_fluctuate,code,evidence
+MULE-10029,FALSE,task changed,"after fix using ElementResolver, task reopened again to use Syntax Resolver"
+MULE-10134,FALSE,typo,task -> tasks
+MULE-10481,FALSE,additional details,"notify task to modify email spec (remember = tasks were stated somewhere or implicitly known, and here is just a reminder)"
+MULE-10561,FALSE,rephrasing,"remove ""/ domain"" but it was already stated in the description"
+MULE-10730,FALSE,rephrasing,rephrase task description
+MULE-10781,FALSE,rephrasing,rephrase compliance > parity
+MULE-10856,FALSE,rephrasing,"rephrase summary, shorter statement indicate the task to improve UX of WSC attachments"
+MULE-11249,FALSE,additional details,update implementation step
+MULE-11294,FALSE,task changed,"Main task got changed. All package will not be moved. Only some of them will be replaced with interception API, while others are maintained and may be moved to mule-api"
+MULE-11346,FALSE,additional details,add intention of the task
+MULE-11346,FALSE,rephrasing,rephrase summary
+MULE-11600,FALSE,additional details,root cause discovered
+MULE-12047,FALSE,additional details,add detail on observed behavior
+MULE-12097,FALSE,task removed,"scope was reduced since it not cover ""remove http proxy"" anymore"
+MULE-12102,FALSE,rephrasing,rephrase summary (main task stil be processing strategy)
+MULE-12126,FALSE,text formatting,*SHOULD not*
+MULE-12245,FALSE,worklog,"as the task is to determine tests broken, the changes are just list all conclusions after the discussions"
+MULE-12301,FALSE,rephrasing,"the goal of the issue is still the same, description is rephrased from implement proxies to implement another isolated proxy class"
+MULE-12472,FALSE,rephrasing,invert module > module is confusing
+MULE-12654,FALSE,rephrasing,rephrase summary (main task still be zip)
+MULE-12953,FALSE,typo,doesn't > don't
+MULE-12999,FALSE,task added,add 3 subtasks
+MULE-13182,FALSE,additional details,"(probably wrong detail) wrong class name, change so late"
+MULE-13216,FALSE,additional details,aggregation api is still there (not task change)
+MULE-13217,FALSE,task changed,task changed from aggregation APi to decoupled from splitter
+MULE-13275,FALSE,task changed,task changed from runtime manager ability to configure while startup and runing >> config while deploying
+MULE-13298,FALSE,rephrasing,rephrase summary
+MULE-13647,FALSE,additional details,add implementation step to disable logging (which is to remove MULE13253)
+MULE-13896,FALSE,rephrasing,"""review"" > ""improve"", but the description still be the same"
+MULE-13920,FALSE,typo,
+MULE-13928,FALSE,rephrasing,change scope level to smart connectors (which is identical to what they write in description
+MULE-14078,FALSE,additional details,"remove setting code, remove steps2reproduce, add root cause explanation"
+MULE-14144,FALSE,task changed,not a spike anymore
+MULE-14183,FALSE,task changed,"""improve deployment to consider"" >> ""remove"" ... details are in the comment."
+MULE-14837,FALSE,text formatting,add link format.
+MULE-14862,FALSE,rephrasing,"security filter already mentioned in detail, so this is just emphasizing the existing information"
+MULE-14874,FALSE,rephrasing,observed behavior: change summary from WSC to soap service. Task still be making WSC output propagate media type instead of fixed 'app/xml'
+MULE-14961,FALSE,typo,
+MULE-14999,FALSE,task changed,migrate >> spike
+MULE-15087,FALSE,additional details,remove external issue references
+MULE-15277,FALSE,typo,
+MULE-15282,FALSE,rephrasing,"rephrase summary, OB > implementation plan"
+MULE-15427,FALSE,additional details,(probably wrong detail) it is required for metadata
+MULE-15434,FALSE,task added,add 'expose category name' task
+MULE-15532,FALSE,additional details,"(probably wrong detail) SOAP service does not use SOAP core lib, but SOAP service is used by WSC which need to changed to use Core lib instead"
+MULE-15614,FALSE,rephrasing,spec > plan
+MULE-15683,FALSE,additional details,add name of failing test
+MULE-15810,FALSE,task added,add 2 more jobs to take care of
+MULE-15860,FALSE,typo,
+MULE-16517,FALSE,rephrasing,rephrase summary from explaning task to expected outcome
+MULE-6845,FALSE,additional details,add detail of the main task
+MULE-7073,FALSE,rephrasing,pull up detail in description to summary
+MULE-7204,FALSE,rephrasing,fix flaky test >> fix race condition
+MULE-7204,FALSE,additional details,elaborate EB and root cause
+MULE-7299,FALSE,task added,add 2 subtasks
+MULE-7414,FALSE,additional details,add list of dependencies
+MULE-7458,FALSE,rephrasing,rephrase summary
+MULE-7755,FALSE,task added,add subtasks
+MULE-7757,FALSE,task added,add subtasks
+MULE-7758,FALSE,task added,add subtasks
+MULE-7769,FALSE,additional details,add reasons of this issue (`in order to ....`)
+MULE-7865,FALSE,rephrasing,elaborate summary ((Authorization code))
+MULE-7897,FALSE,additional details,define the issue scope
+MULE-8019,FALSE,additional details,add code example
+MULE-8267,FALSE,rephrasing,rephrase observed behavior
+MULE-8307,FALSE,additional details,"fix wrong detail on ""If you change ... (remove not)"""
+MULE-8307,FALSE,rephrasing,rephrase summary
+MULE-8458,FALSE,typo,"seems like 1.9.20 is typo, comment stated that it need to updated to 1.9.19, original text was 1.9.18."
+MULE-8594,FALSE,rephrasing,"rephrase summary to encapsulate details (""http response"" represent the object to json transformer)"
+MULE-9142,FALSE,rephrasing,rephrase summary and 2 observe behaviors in desc
+MULE-9142,FALSE,additional details,task info added in last sentence
+MULE-9414,FALSE,typo,
+MULE-9704,FALSE,rephrasing,dev tools
+MULE-9753,FALSE,additional details,add details about fixing linkage error
+MULE-10056,TRUE,UNKNOWN,Not enough context
+MULE-10201,TRUE,rephrasing,"change ""explicitly define"" > ""infer"""
+MULE-10365,TRUE,additional details,"add ""for 4.x"""
+MULE-10401,TRUE,task added,"Main task still about to support multipart, the task to creating payloads with DW is added"
+MULE-10401,TRUE,rephrasing,change summary to match the description
+MULE-10565,TRUE,additional details,"add ""per-processor scheduling"" as a new detail"
+MULE-10587,TRUE,task changed,"subtasks changed from ""review/migrate 2 module"" to ""move a moduule to another module"""
+MULE-10679,TRUE,additional details,"detail removed, (I guess that extension loader is the same as extension model loader)"
+MULE-10739,TRUE,task changed,"entire task changed, move > remove"
+MULE-10808,TRUE,task added,AsyncDelegateMessageProcessor was added as a new module to migrate
+MULE-10841,TRUE,task removed,"note that the subtasks done in other issues, the scope was reduced"
+MULE-10935,TRUE,rephrasing,"just remove ""polling"""
+MULE-10939,TRUE,task changed,changed from make core tests run with DW/MVEL to cover all test in ExpressionMgr
+MULE-11170,TRUE,task changed,task changed from spike to implementation
+MULE-11183,TRUE,task added,"define the subtasks corresponding to the main requirement, i.e., test concurrency performance."
+MULE-11400,TRUE,UNKNOWN,"not enough info, but the name already stated in summary"
+MULE-11496,TRUE,task removed,"scope reduced, not all core components will have extensionmodel (comment has the name list)"
+MULE-11512,TRUE,typo,JSM > JMS
+MULE-11647,TRUE,additional details,"remove observed behavior, add detail explain how tryit service should handle streams (EB)"
+MULE-11682,TRUE,task changed,task changed from implement support to update runtime client
+MULE-11715,TRUE,typo,"grammar correction, remove 'is'"
+MULE-11716,TRUE,task removed,"Because SP was changed along with the description (remove ""and variable""). SO I think this is the change in task, however the description was not changed along with it."
+MULE-11906,TRUE,additional details,"implementation detail was added (implement using option resolvers), and ""field must accept ......"""
+MULE-12454,TRUE,additional details,state the implementation step
+MULE-12561,TRUE,additional details,extension model > datasense
+MULE-12561,TRUE,task removed,remove task to improve loading time and add cache
+MULE-12565,TRUE,task changed,"main task changed, remove > upgrade"
+MULE-12785,TRUE,task changed,task changed from rename to remove
+MULE-12799,TRUE,task changed,changed from moving to Tooling API to a new middleman API
+MULE-12872,TRUE,additional details,add detail on the additional task in separate issue (Thus it is likely not counted toward the estimation of this issue)
+MULE-13503,TRUE,task changed,JDK version changed
+MULE-14213,TRUE,additional details,"scope of the task defined, i.e., upgrade in CE, API, Ext. API"
+MULE-14244,TRUE,task added,Add subtask to update spring version
+MULE-14532,TRUE,task changed,evaluate > implement
+MULE-14779,TRUE,rephrasing,"note that this task is part 1 in summary, which is already there in the description"
+MULE-15048,TRUE,task added,"subtask stated (1) migrate doc to 4, (2) generate doc"
+MULE-15159,TRUE,text formatting,code format
+MULE-15485,TRUE,task changed,task changed from implementation to optimization
+MULE-15540,TRUE,rephrasing,rephrase summary
+MULE-15584,TRUE,issue organization,remove issue organization (SDK:)
+MULE-15686,TRUE,UNKNOWN,"Was fix all tests in mule-http-connector repo, but was changed to 2 TestCases, however, it is unsure that the tests in mule-http-connector are the same as in the two TestCase files"
+MULE-15896,TRUE,task removed,one joblist removed
+MULE-7318,TRUE,rephrasing,change from explain problem (OB) to how to solve (EB)
+MULE-7871,TRUE,task changed,implement > spike
+MULE-8297,TRUE,task changed,task changed from define CXF approach  to upgrade CXF version
+MULE-9249,TRUE,rephrasing,"rerphase, add how to implement (@path) in summary, which already stated in description"
+MULE-9285,TRUE,task changed,"change from ensure event passing tests, to refactor 2 module on MuleEvent"
+MULE-9690,TRUE,additional details,"Elaborate how to remove isOutbound method from class. The suggested method becomes ""moving the class to other interface to not expose the method"" instead"
+MULE-9821,TRUE,rephrasing,"just one > the single, very > very simple"
+MULE-9901,TRUE,task added,discovered new required task to add displayname annotation on methods and types
+MULE-9901,TRUE,task added,"add more task after ""Edit:"""
+MULE-16009,TRUE,task removed,"Scope reduced, not cover Mule EE project anymore"

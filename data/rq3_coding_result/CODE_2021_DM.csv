@@ -1,0 +1,294 @@
+issue_key,sp_fluctuate,code,evidence
+DM-10009,FALSE,rephrasing,if > for pixels where
+DM-10525,FALSE,additional details,"add ""sometime fails after a few hours of execution"""
+DM-10740,FALSE,additional details,add detail of the task
+DM-10796,FALSE,additional details,Add aspect of requirement to finalize
+DM-11159,FALSE,rephrasing,produces > produced
+DM-11162,FALSE,text formatting,text formatting {{}}
+DM-11287,FALSE,worklog,
+DM-11319,FALSE,task removed,"scope was reduced from ""all of the CModel test plots"" to ""characteristics plots"" (comment: from figures 10, 11, and 12)"
+DM-11345,FALSE,additional details,add characteristics that the refining dataset should cover
+DM-1151,FALSE,task added,include a new subtasks: removing any fake (unnecessary) datarefs
+DM-12423,FALSE,text formatting,text formatting
+DM-12423,FALSE,typo,outlier > outliers
+DM-12551,FALSE,task added,add more task optimizations
+DM-1256,FALSE,typo,"changed from global catalog to metadata store, I mark this as typo because epiclink was assigned 10 hrs before, indicate that this task is about metadatastore. There is no other evidence indicate relationship with global catalog at all"
+DM-12853,FALSE,worklog,"The main task is to review design questions, and the updates are the answer for each question"
+DM-13253,FALSE,additional details,add link to another issue
+DM-13268,FALSE,additional details,detail about the state of the task and review process
+DM-13489,FALSE,text formatting,\n
+DM-13552,FALSE,typo,"The attachment posted on JIRA shows that they have 10 wavefronts, posted before they change the description"
+DM-13648,FALSE,additional details,"focusing on version 9 (support only version 9 still compatible with version 8, so scope does not change)"
+DM-13954,FALSE,typo,typo
+DM-14118,FALSE,additional details,jupyter notebook location added
+DM-14350,FALSE,additional details,the correct ones should be ...
+DM-14505,FALSE,additional details,add detail how to test cache and coverage bug
+DM-14505,FALSE,worklog,list completed work
+DM-15054,FALSE,additional details,add detail about JAVA version implementation
+DM-15054,FALSE,text formatting,"add [ ], ' '"
+DM-15054,FALSE,text formatting,"[], ' '"
+DM-15081,FALSE,additional details,add task clarification
+DM-15106,FALSE,additional details,"add ""Once DM-15104 is completed"""
+DM-15510,FALSE,additional details,add sample query to description and new details to summary
+DM-15795,FALSE,additional details,add detail to a task
+DM-16261,FALSE,additional details,"change lsst_obs > obs_lsst (probably the same), change user mentioned name to review with"
+DM-16475,FALSE,typo,"Recognize, UCDs, vo-table > VO like table"
+DM-16475,FALSE,additional details,Add additional requirement (The source of the table...)
+DM-16734,FALSE,additional details,"state that LDM50307 is the mile stone, and executing test plan LVV-P16 is how to complete it."
+DM-17677,FALSE,typo,RPMS
+DM-17788,FALSE,worklog, add (/) to mark the completed work
+DM-17983,FALSE,typo,Arvo
+DM-18019,FALSE,typo,security
+DM-18708,FALSE,rephrasing,remove 'ingest' from summary
+DM-2097,FALSE,additional details,task elaboration from linked issues'
+DM-2427,FALSE,typo,spanregion > spanset
+DM-2659,FALSE,additional details,add detail of the task and roughly explain implementation step
+DM-2708,FALSE,rephrasing,rephrase summary
+DM-2953,FALSE,rephrasing,rephrase summary (unique_ptr is already stated in description)
+DM-3090,FALSE,typo,quite > suite
+DM-3199,FALSE,additional details,add detail of task in the summary (description still stays the same)
+DM-3574,FALSE,task changed,"Reimplement changed to Replace, library changed (use CssAccess instead of KVInterface)"
+DM-3652,FALSE,worklog,details about the current work
+DM-3652,FALSE,typo,SUI/T > SUIT
+DM-3926,FALSE,rephrasing,"remove ""(step 1)"" and ""first step -"""
+DM-3951,FALSE,additional details,add detail to clarify the performance acceptance after the removal
+DM-3952,FALSE,typo,cleanup > Cleanup
+DM-4194,FALSE,typo,remove does
+DM-4570,FALSE,additional details,"add detail ""not sure if we wanted this"""
+DM-4570,FALSE,task added,add task to filter validation syntax and add actOn feature
+DM-4582,FALSE,rephrasing,"""highlight"" is already stated in the summary"
+DM-4993,FALSE,additional details,list of dependencies added for review (main task is not changed/ no new task specified)
+DM-5312,FALSE,additional details,"add ""Test potential improvements in many-vertical-shards test (20,50) run-times with query optimizer settings."""
+DM-5323,FALSE,task added,add new subtasks
+DM-5387,FALSE,worklog,
+DM-5521,FALSE,typo,DM-3427 > DM-3472
+DM-5650,FALSE,typo,typo
+DM-5688,FALSE,additional details,add link to external article
+DM-5688,FALSE,worklog,add changelog
+DM-5689,FALSE,worklog,worklog in pull request
+DM-5919,FALSE,additional details,add detail on the mappings and frames
+DM-6147,FALSE,rephrasing,"add ""and make saturation a double"""
+DM-6474,FALSE,additional details,"star selectors ""that was lost in DM-5532"""
+DM-6500,FALSE,worklog,"also made these changes:
+  remove irsa footer from fireflyviewer
+  filter by selected rows
+  auto-correct table‚Äö√Ñ√∂‚àö√ë‚àö¬•s filter input.
+  multiple columns sort via sortByCols
+  fix menu item not showing selected
+  ife automatically builds firefly.
+  
+  To test, make sure you pull ife repos as well.
+  same branch name on ife."
+DM-7225,FALSE,task added,add CSV as one of the supporting file type
+DM-7267,FALSE,typo,add which (missing word (grammatically))
+DM-7271,FALSE,task changed,"change from %g as default format > do not apply default data format, and add more subtasks, so I classify this as task changed"
+DM-7921,FALSE,additional details,"stated that this is experiment, (already stated as experiment in detail by 'show how....')"
+DM-800,FALSE,typo,typo
+DM-8007,FALSE,worklog,"copied from the pul request: (XW, 1018/2016)
+  copied Firefly License.txt
+  added a simple README
+  added setup.py and setup.cfg
+  moved package files to firefly_client directory"
+DM-8109,FALSE,typo,Gaussian
+DM-8119,FALSE,additional details,add implementation step
+DM-814,FALSE,task changed,clean up core/doc instead of admin/bin
+DM-8242,FALSE,additional details,add implementation detail
+DM-8286,FALSE,additional details,"The gaps are to be filled by the use of JSON schemas, guided closely by relevant IVOA standards & recommendations, to represent ImageServ API v1 interface, and a new internal execution engine that can interpret and translate image requests written in the new language. Desired XML input & output format, per IVOA standards, are being translated from/to JSON on the fly by ImageServ."
+DM-8367,FALSE,worklog,github pullrequest added
+DM-8619,FALSE,task added,expand test coverage on testWarpExposure.py
+DM-8707,FALSE,additional details,note further improvement of the system
+DM-8707,FALSE,rephrasing,rephrase summary (Options for plotting scatter and lines in multi-trace charts)
+DM-8720,FALSE,additional details,add task details and state the detailed scope
+DM-9162,FALSE,typo,typo
+DM-9381,FALSE,typo,vary > very
+DM-9440,FALSE,additional details,add detail how to test the code
+DM-9618,FALSE,additional details,add description of the task (was empty)
+DM-17642,FALSE,task changed,Task changed from discussing about simulationto attending the workshop
+DM-1733,FALSE,additional details,Change JIRA ticket link to Confluence link
+DM-2547,FALSE,issue organization,remove CLONE
+DM-17596,FALSE,task changed,Task changed from employee evaluation form to setting up docker
+DM-13710,FALSE,typo,track
+DM-11043,FALSE,task changed,Requirement was changed (from sanity check to create model)
+DM-1254,FALSE,UNKNOWN,not enough context
+DM-7119,FALSE,task removed,Task about firefly-api-overview was removed
+DM-14239,FALSE,additional details,Add detail about data source
+DM-18513,FALSE,additional details,"Add new details, i.e., ""on local machline"" and ""puppet script ..."""
+DM-14710,FALSE,typo,typo
+DM-8797,FALSE,additional details,Add one possible implementation step
+DM-8797,FALSE,text formatting,formatting ? > (?)
+DM-10933,FALSE,task removed,Technotes (as a scope of work) got removed
+DM-16743,FALSE,typo,typo
+DM-2978,FALSE,rephrasing,rephrase the OB in description
+DM-1978,FALSE,task changed,implement > research and document
+DM-10328,FALSE,additional details,observed behavior added
+DM-5361,FALSE,task removed,remove a sub task.
+DM-17543,FALSE,additional details,detail removed
+DM-13833,FALSE,text formatting,link placement rearrage
+DM-11556,FALSE,typo,state > slate
+DM-2189,FALSE,additional details,Requirement stated
+DM-9867,FALSE,additional details,Add implementation details
+DM-8706,FALSE,worklog,"The ""also fixed:"" list got added after the status was changed to ""in review"""
+DM-7255,FALSE,text formatting,"{quote}, {{}}"
+DM-10398,FALSE,additional details,change referenced issue
+DM-5579,FALSE,additional details,add scope of the issue
+DM-3892,FALSE,typo, remove '-'
+DM-14116,FALSE,additional details,Add example code
+DM-13192,FALSE,additional details,"Add purpose of the task, define scope of work, add how to run test"
+DM-15772,FALSE,task added,Add new subtask
+DM-9888,FALSE,worklog,just a worklog
+DM-8646,FALSE,rephrasing,Rephrase one subtask
+DM-2161,FALSE,additional details,Add prequisite to run the service and example usage
+DM-17687,FALSE,typo,Dug > doug
+DM-18339,FALSE,additional details,Add package name
+DM-18339,FALSE,task removed,Scope reduced as 'ts_ATDomeTrajectory' removed
+DM-15049,FALSE,additional details,Define scope of the task
+DM-6821,FALSE,UNKNOWN,not enough context
+DM-12085,FALSE,task removed,"scope reduced as ""and the model should use ..."" is removed"
+DM-8757,FALSE,worklog,just worklog
+DM-15498,FALSE,worklog,just worklog
+DM-15498,FALSE,additional details,Add testing steps
+DM-3504,FALSE,additional details,"Add ""for butler"""
+DM-2467,FALSE,additional details,Define scope of the task
+DM-8723,FALSE,additional details,Refine implementation steps
+DM-7155,FALSE,additional details,Remove XYplot as developer wrongly stated it in the summary (see comment) 
+DM-7830,FALSE,typo,phase
+DM-12310,FALSE,additional details,Task is to figure out root cause of a bug. The possible step to reproduce was added.
+DM-8650,FALSE,additional details,Requirement stated
+DM-3958,FALSE,task added,add task to built proof-of-concept prototype
+DM-12697,FALSE,text formatting,remove empty lines
+DM-6592,FALSE,worklog,just worklog
+DM-17161,FALSE,task changed,The whole task was changed (see comment)
+DM-4500,FALSE,typo,Fit > FITS
+DM-1570,FALSE,rephrasing,add 'a'
+DM-1901,FALSE,rephrasing,"rephrase summary, but WorkerAdmin still remain in the description"
+DM-3791,FALSE,task changed,Target to evaluate is changed. The library to evaluate was changed from libtorrent kademlia to PASTRY DHT
+DM-1697,FALSE,additional details,Requirement was stated
+DM-4156,FALSE,text formatting,--'
+DM-4156,FALSE,typo,PAN > Pan
+DM-8406,FALSE,additional details,Add link to confluence
+DM-1579,FALSE,additional details,Add possible implementation steps
+DM-11126,FALSE,typo,"remove ""See"""
+DM-18344,FALSE,rephrasing,BasCsc > CSCs
+DM-18344,FALSE,text formatting,add empty line
+DM-9743,FALSE,additional details,"Add ""raw data"" and  reason ""Because ......."""
+DM-9743,FALSE,rephrasing,rephrase reloaded > updated
+DM-14392,FALSE,task changed,"The task was entirely changed from ""Fix ...[a module]..."" to ""Add ...[another module]..."
+DM-10035,FALSE,worklog,just a worklog stated that this task is not needed anymore. And the developer already do what they need to.
+DM-14637,FALSE,additional details,"Add a message ""the script is attached."""
+DM-10488,FALSE,additional details,"Change from ""update to a specific version"" to ""update to latest version"""
+DM-6309,FALSE,worklog,Add a tick of finished work
+DM-13059,FALSE,additional details,Change version to updated to
+DM-14024,FALSE,task added,add 2 subtasks
+DM-10310,TRUE,task changed,operator > updates (see comments)
+DM-10384,TRUE,task changed,changed from addressing problem to making a plan
+DM-10384,TRUE,additional details,add detail about further implementation
+DM-10827,TRUE,task changed,main task is changed from scheduling to creating example
+DM-10833,TRUE,additional details,"tri-view concept, Put multi-trace charts into tri-view. This ticket should also include handling Charts dropdown and default plot."
+DM-10875,TRUE,task added,Add new task which is to include AP and DRP to activity
+DM-11190,TRUE,additional details,add current state and detail how to implement
+DM-11341,TRUE,worklog,Add detail of completed works
+DM-11479,TRUE,task added,add new subtasks
+DM-11911,TRUE,task removed,task to import yamlCamera was removed
+DM-12211,TRUE,additional details,add details on implementation logic
+DM-12211,TRUE,task added,scope expanded to incldue new feature
+DM-1249,TRUE,additional details,add detail how to implement css to description and summary
+DM-12553,TRUE,task added,and HiPS Cube support'
+DM-13409,TRUE,typo,skikit > scikit
+DM-13488,TRUE,additional details,explicitly specify depths value for each COSMOS rerun
+DM-13513,TRUE,task added,"scope expanded, look at all failure (not just bright classification failure)"
+DM-13737,TRUE,task added,Expanded scope to simplify the process of adding a new API to Imgserv.
+DM-13768,TRUE,task added,add more task outside the 'fix' scope (change doc & shorten installation portion of the docs)
+DM-13866,TRUE,task added,add task to optimize server memory usage
+DM-14172,TRUE,additional details,add how to generate figures
+DM-14172,TRUE,text formatting,indentation
+DM-14292,TRUE,additional details,add major milestones of this task
+DM-14333,TRUE,task changed,perform L1/AP test at NCSA >> support oracle dialect
+DM-14334,TRUE,task added,add task to a placeholder issue
+DM-14659,TRUE,task changed,design jupyter widget and prototype > update jupyter widget using firefly client
+DM-14762,TRUE,task removed,remove task about HiTS 2014
+DM-15177,TRUE,task removed,"firefly not need to be modified anymore, task was removed"
+DM-15244,TRUE,task changed,"Task change from ""add support Err and Sigma"" to  ""jchange sigma to error"", and also add scope to cover var names, arg names, and afw table field names."
+DM-15244,TRUE,task added,update the FITS as follows....
+DM-15499,TRUE,additional details,add minimum set of requirements
+DM-15499,TRUE,text formatting,
+DM-15499,TRUE,typo,
+DM-1587,TRUE,task changed,implement prototype >> define structure
+DM-1589,TRUE,additional details,requirement revised with more implementation detail
+DM-16048,TRUE,task added,"main task is to save table in other formats, more details on which formats they should implement"
+DM-16781,TRUE,additional details,add detail about the documentation task
+DM-1695,TRUE,task added,"subtasks added, not only implement interface, but also implement POC, prototype, etc."
+DM-17089,TRUE,task changed,change from move to remove
+DM-17227,TRUE,task changed,task just got changed
+DM-1762,TRUE,typo,aserv_testdata > qserv_testdata
+DM-17655,TRUE,additional details,"add ""Document the effort at:"""
+DM-17758,TRUE,task added,"""and Webpack"", since webpack doesnt mentioned in the description"
+DM-18161,TRUE,task removed,"remove ""M1M3 themal work"""
+DM-18171,TRUE,task added,include new tests
+DM-18643,TRUE,task changed,changed from fixing 2 source Selection to implementation of RFC-589
+DM-1954,TRUE,task added,"Also include HSC-1256, HSC-1218 in deblending"
+DM-203,TRUE,task changed,"change from ""setup"" > ""prepare for setting up"""
+DM-207,TRUE,task added,"qserv added into the scope, and the other change is depend on this task added."
+DM-2201,TRUE,task changed,main task has changed (add numpy typemaps to afw image classes > add typemaps for numpy scalars)
+DM-2683,TRUE,rephrasing,rephrase summary
+DM-2722,TRUE,additional details,"add context about the work item: ""This story involves just the planning part, implementation will be done through separate stories."""
+DM-3569,TRUE,task changed,task changed from data distrib > research / reading
+DM-3700,TRUE,issue organization,add assignee name in summary
+DM-4486,TRUE,additional details,"add detail about the task itself, note that ticket is moved to next sprint (with reasons)."
+DM-4494,TRUE,task added,add detail about the task itself
+DM-4495,TRUE,typo,Fit > FITS
+DM-5035,TRUE,task added,Add new subtasks
+DM-5276,TRUE,task added,"plan ""and"" upgrade third party packages"
+DM-5362,TRUE,task changed,second subtask changed (write upload file component > redius input field)
+DM-5362,TRUE,additional details,add detail of the third subtask
+DM-5488,TRUE,task added,new subtasks added
+DM-5516,TRUE,task added,"scope expanded, require one more developer in discussion"
+DM-6030,TRUE,additional details,"the removed task is not related to the main task, it  is just a detail about the effect of current work which will be resolved in other ticket."
+DM-6289,TRUE,additional details,add implementation detail
+DM-658,TRUE,rephrasing,rephrase summary (db name was already mentioned in description)
+DM-6974,TRUE,typo,did > didn't
+DM-699,TRUE,typo,typo
+DM-7090,TRUE,additional details,observed behavior removed
+DM-7177,TRUE,task added,"add community posting, add explain differences with old class"
+DM-7177,TRUE,task removed,task provide avenue for feedback was removed
+DM-7182,TRUE,additional details,conference name removed
+DM-750,TRUE,task added,add a task to deploy .so file
+DM-750,TRUE,additional details,"add 'i.e., reduce waf tool features'"
+DM-7594,TRUE,task added,"add ""Also, add attribute to the extra phase column so a comment or some description appears in the ipac table header when is saved by the user if possible."""
+DM-8125,TRUE,additional details,"add implementation detail (i.e., use storage class instead of directly access the repo data)"
+DM-8308,TRUE,task added,add new subtask
+DM-8660,TRUE,task added,add subtasks after Analysis
+DM-9035,TRUE,task added,the task is to generate dataset for testing. The description was changed in order to add one more deliverables (cookbook for reproducing)
+DM-9035,TRUE,additional details,add and change detail of the dataset parameters 
+DM-9282,TRUE,task removed,a task removed
+DM-9282,TRUE,typo,PDAV > PDAC
+DM-9500,TRUE,additional details,add expected behaviors
+DM-9947,TRUE,task added,issue was changed to cover additional work in DM-10284 (which was marked as won't fix)
+DM-5348,TRUE,rephrasing,change term binaries > executable
+DM-15139,TRUE,additional details,change method inverse to invert
+DM-15139,TRUE,task added,Add a subtask to rename 'simplify method'
+DM-211,TRUE,task removed,Task to improve architecture got removed
+DM-211,TRUE,task added,Add subtask to capture all findings in new stories
+DM-18401,TRUE,task added,Subtasks added
+DM-8461,TRUE,UNKNOWN,SP just estimated late along with additional detail added
+DM-11329,TRUE,additional details,Scope defined
+DM-2299,TRUE,task added,Add subtask to separate connection from utilities
+DM-12776,TRUE,additional details,"Small change ""today"" > ""the last few days"""
+DM-3452,TRUE,task added,Additional load destination defined (MySQL)
+DM-4580,TRUE,task added,Subtask added
+DM-6298,TRUE,additional details,Scope defined
+DM-15826,TRUE,task added,Substantial modification (new task) added 
+DM-15826,TRUE,typo,"""improvements"""
+DM-3962,TRUE,UNKNOWN,Just a temp issue
+DM-13276,TRUE,worklog,Just worklog
+DM-12640,TRUE,task removed,Subtasks removed
+DM-12640,TRUE,task added,Subtask added (possibly SqliteRegistry ...)
+DM-1900,TRUE,rephrasing,Rephrase summary (add note 'design')
+DM-11299,TRUE,text formatting,one new line
+DM-4523,TRUE,additional details,Add implementation detail
+DM-6118,TRUE,task added,Two more issues to be fixed was added
+DM-4958,TRUE,task removed,scope reduced as stated in the description
+DM-18591,TRUE,task added,scope expanded to cover 3 more bugs
+DM-622,TRUE,rephrasing,"Rephrase, move old summary to be a part of description. Then give new generic summary."
+DM-626,TRUE,task added,"New issue was stated and need fix (i.e., DISTINCT)"
+DM-1161,TRUE,task added,New task was stated (we should also ensure that source is cited)
+DM-10425,TRUE,additional details,All task detail stated
