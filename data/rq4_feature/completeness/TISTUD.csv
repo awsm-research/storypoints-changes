@@ -23,7 +23,7 @@
 "TISTUD-9086","Improvement","2018-06-11T10:57:12.000+0000",2,0,0,False,False,False,0,False,0
 "TISTUD-9085","Improvement","2018-06-08T16:44:51.000+0000",1,0,0,False,False,False,0,False,0
 "TISTUD-9075","Bug","2018-05-04T17:49:43.000+0000",3,0,1,True,False,False,0,True,0
-"TISTUD-9063","Improvement","2018-04-17T04:24:42.000+0000",0,0,0,False,False,False,2,False,4
+"TISTUD-9063","Story","2018-04-17T04:24:42.000+0000",0,0,0,False,False,False,2,False,4
 "TISTUD-9060","Bug","2018-04-13T17:07:50.000+0000",8,0,0,False,False,False,0,True,0
 "TISTUD-9055","Bug","2018-04-03T04:10:00.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-9053","Bug","2018-04-02T08:30:37.000+0000",2,1,0,True,True,False,0,True,0
@@ -82,7 +82,7 @@
 "TISTUD-8883","Bug","2017-10-10T12:23:52.000+0000",0,1,1,True,True,False,4,True,0
 "TISTUD-8882","Bug","2017-10-10T09:04:52.000+0000",3,1,1,True,True,False,0,False,0
 "TISTUD-8881","Bug","2017-10-06T21:03:09.000+0000",1,0,0,False,False,False,0,False,0
-"TISTUD-8880","Improvement","2017-10-09T10:03:15.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-8880","New Feature","2017-10-09T10:03:15.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-8878","Improvement","2017-10-02T04:05:54.000+0000",0,0,0,True,False,False,3,True,1
 "TISTUD-8875","Bug","2017-09-26T20:32:49.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-8873","Improvement","2017-09-27T02:58:28.000+0000",0,0,0,False,False,False,0,False,0
@@ -102,8 +102,8 @@
 "TISTUD-8795","Bug","2017-06-14T07:35:48.000+0000",0,0,0,True,False,False,0,True,0
 "TISTUD-8794","Bug","2017-06-14T06:08:38.000+0000",0,0,0,True,True,False,0,False,1
 "TISTUD-8791","Bug","2017-06-08T18:19:11.000+0000",0,0,0,True,False,False,0,False,1
-"TISTUD-8788","Bug","2017-06-06T12:04:31.000+0000",0,0,0,True,True,False,0,False,0
-"TISTUD-8787","Bug","2017-06-06T08:11:27.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-8788","Story","2017-06-06T12:04:31.000+0000",0,0,0,True,True,False,0,False,0
+"TISTUD-8787","Improvement","2017-06-06T08:11:27.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-8779","Bug","2017-05-31T15:55:35.000+0000",0,0,0,False,True,False,0,False,0
 "TISTUD-8777","Bug","2017-05-30T09:30:44.000+0000",3,1,0,False,False,False,0,True,0
 "TISTUD-8769","Bug","2017-05-17T12:52:56.000+0000",1,1,1,True,False,False,0,False,0
@@ -142,11 +142,11 @@
 "TISTUD-8536","Improvement","2016-07-18T14:32:39.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-8531","Story","2016-07-08T10:22:12.000+0000",0,0,0,False,False,False,2,False,0
 "TISTUD-8530","Improvement","2016-07-05T08:36:10.000+0000",0,0,1,True,False,False,0,True,0
-"TISTUD-8529","Bug","2016-07-01T04:57:29.000+0000",0,0,0,False,False,False,0,True,0
+"TISTUD-8529","Story","2016-07-01T04:57:29.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-8527","Bug","2016-06-24T03:39:24.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-8526","Bug","2016-06-22T07:16:19.000+0000",0,1,1,True,True,False,3,False,0
 "TISTUD-8524","Improvement","2016-06-20T07:23:03.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-8523","Bug","2016-06-16T07:22:43.000+0000",0,0,0,False,True,False,0,False,0
+"TISTUD-8523","Story","2016-06-16T07:22:43.000+0000",0,0,0,False,True,False,0,False,0
 "TISTUD-8516","Bug","2016-06-07T08:27:00.000+0000",0,1,1,True,True,False,2,False,0
 "TISTUD-8509","Improvement","2016-05-30T02:00:08.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-8506","Bug","2016-05-23T23:08:30.000+0000",3,0,0,True,True,False,2,False,0
@@ -172,13 +172,13 @@
 "TISTUD-7979","Improvement","2016-02-02T17:08:34.000+0000",0,0,0,False,False,False,0,False,1
 "TISTUD-7971","Bug","2016-01-21T23:38:03.000+0000",2,0,1,True,False,False,0,True,0
 "TISTUD-7965","Bug","2016-01-19T09:43:53.000+0000",0,0,0,False,False,False,0,True,0
-"TISTUD-7960","Improvement","2016-01-19T03:36:49.000+0000",0,0,0,False,False,False,0,False,2
+"TISTUD-7960","Story","2016-01-19T03:36:49.000+0000",0,0,0,False,False,False,0,False,2
 "TISTUD-7956","Bug","2016-01-14T21:37:34.000+0000",5,0,1,False,False,False,0,False,0
-"TISTUD-7946","Improvement","2016-01-07T22:51:56.000+0000",0,0,0,True,False,False,0,False,0
+"TISTUD-7946","Bug","2016-01-07T22:51:56.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-7942","Bug","2016-01-06T00:38:09.000+0000",3,1,1,False,False,False,0,True,0
 "TISTUD-7916","Bug","2015-12-16T08:14:14.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-7911","Bug","2015-12-15T10:09:42.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-7910","Story","2015-12-15T09:53:37.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-7910","Bug","2015-12-15T09:53:37.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-7905","Bug","2015-12-07T17:50:02.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-7899","Bug","2015-12-02T08:08:11.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-7880","Bug","2015-11-24T18:35:20.000+0000",0,0,0,True,False,False,0,True,0
@@ -299,7 +299,7 @@
 "TISTUD-6890","Bug","2014-09-05T21:03:25.000+0000",0,1,1,True,True,False,3,False,0
 "TISTUD-6888","Bug","2014-09-05T14:13:51.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-6871","Bug","2014-09-02T20:24:20.000+0000",3,0,0,False,False,False,0,True,0
-"TISTUD-6847","Improvement","2014-08-28T23:05:19.000+0000",0,0,0,True,False,False,0,False,0
+"TISTUD-6847","New Feature","2014-08-28T23:05:19.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-6834","New Feature","2014-08-26T17:13:18.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6824","Story","2014-08-22T13:14:00.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6786","Bug","2014-08-14T18:25:40.000+0000",0,0,0,True,False,False,5,False,1
@@ -327,16 +327,16 @@
 "TISTUD-6458","Bug","2014-05-12T23:54:41.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6456","Story","2014-05-12T14:47:12.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6455","Story","2014-05-12T14:45:35.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6447","Story","2014-05-09T21:41:10.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6446","Story","2014-05-09T21:40:26.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6445","Story","2014-05-09T21:39:12.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6444","Story","2014-05-09T21:38:45.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6443","Story","2014-05-09T21:38:08.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-6447","Improvement","2014-05-09T21:41:10.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-6446","Improvement","2014-05-09T21:40:26.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-6445","Improvement","2014-05-09T21:39:12.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-6444","Improvement","2014-05-09T21:38:45.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-6443","Improvement","2014-05-09T21:38:08.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6442","Story","2014-05-09T21:13:59.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6425","Bug","2014-05-08T17:57:35.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-6423","Story","2014-05-08T17:15:14.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-6422","Story","2014-05-08T17:13:45.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-6407","Bug","2014-05-05T12:31:38.000+0000",0,0,0,False,False,False,0,True,1
+"TISTUD-6407","Story","2014-05-05T12:31:38.000+0000",0,0,0,False,False,False,0,True,1
 "TISTUD-6399","Bug","2014-05-01T18:50:55.000+0000",0,0,0,True,True,False,0,True,0
 "TISTUD-6350","Bug","2014-03-05T01:16:26.000+0000",2,1,1,False,False,False,0,False,0
 "TISTUD-6337","Bug","2014-04-16T10:21:07.000+0000",0,1,1,False,False,False,3,False,0
@@ -397,7 +397,7 @@
 "TISTUD-5914","Improvement","2013-12-13T21:44:19.000+0000",0,0,0,False,False,False,2,False,2
 "TISTUD-5913","Improvement","2013-12-13T21:43:29.000+0000",0,0,0,False,False,False,2,False,2
 "TISTUD-5892","Bug","2013-12-12T10:42:59.000+0000",2,1,1,False,False,False,0,True,0
-"TISTUD-5886","New Feature","2013-12-11T22:45:06.000+0000",0,0,0,True,False,False,0,False,0
+"TISTUD-5886","Improvement","2013-12-11T22:45:06.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-5868","Bug","2013-12-10T01:24:23.000+0000",0,0,0,False,False,False,1,True,0
 "TISTUD-5858","Bug","2013-12-06T11:08:46.000+0000",0,1,0,True,False,False,0,False,0
 "TISTUD-5849","Bug","2013-12-05T02:06:16.000+0000",0,0,0,False,False,False,3,True,0
@@ -434,12 +434,12 @@
 "TISTUD-5663","Improvement","2013-11-06T22:39:04.000+0000",0,0,0,False,False,False,0,False,1
 "TISTUD-5662","Bug","2013-11-06T22:24:51.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5661","Bug","2013-11-06T22:19:15.000+0000",0,0,0,False,False,False,0,True,0
-"TISTUD-5660","Improvement","2013-11-06T22:13:16.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-5660","Story","2013-11-06T22:13:16.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5648","Improvement","2013-11-05T13:55:43.000+0000",0,0,0,False,False,False,0,True,1
 "TISTUD-5643","Bug","2013-11-04T21:59:09.000+0000",1,1,0,False,False,False,0,True,0
 "TISTUD-5642","Bug","2013-11-04T18:42:32.000+0000",2,1,1,False,False,False,0,False,0
 "TISTUD-5635","Bug","2013-11-01T21:49:42.000+0000",0,1,1,True,True,False,0,True,0
-"TISTUD-5631","Improvement","2013-10-31T20:48:38.000+0000",0,0,0,False,False,False,0,True,0
+"TISTUD-5631","Story","2013-10-31T20:48:38.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5629","Story","2013-10-31T20:09:42.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5622","Improvement","2013-10-29T17:13:38.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5621","Bug","2013-10-29T07:56:33.000+0000",0,1,0,False,False,False,2,True,0
@@ -455,7 +455,7 @@
 "TISTUD-5538","Bug","2013-10-17T18:08:03.000+0000",2,0,0,False,False,False,0,True,0
 "TISTUD-5513","Bug","2013-10-11T12:14:15.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5510","Bug","2013-10-10T22:13:01.000+0000",1,0,1,False,False,False,0,True,0
-"TISTUD-5504","Bug","2013-10-10T11:29:04.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-5504","Improvement","2013-10-10T11:29:04.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5503","Improvement","2013-10-10T11:24:57.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5502","Improvement","2013-10-10T11:23:02.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5492","Story","2013-10-08T23:08:23.000+0000",0,0,0,False,False,False,0,False,0
@@ -470,7 +470,7 @@
 "TISTUD-5467","Improvement","2013-10-04T21:36:30.000+0000",0,0,0,False,False,False,8,True,0
 "TISTUD-5462","Improvement","2013-10-02T21:46:47.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5459","Improvement","2013-10-01T21:31:24.000+0000",0,0,0,False,False,False,0,False,1
-"TISTUD-5457","Improvement","2013-09-30T23:24:45.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-5457","Story","2013-09-30T23:24:45.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5441","Bug","2013-09-26T17:38:17.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5439","Bug","2013-09-07T22:58:34.000+0000",3,0,1,False,False,False,0,False,0
 "TISTUD-5431","Bug","2013-09-23T22:20:25.000+0000",0,0,1,True,False,False,4,True,0
@@ -486,8 +486,8 @@
 "TISTUD-5408","Story","2013-09-18T22:44:16.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5403","Improvement","2013-09-18T05:19:16.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5401","Bug","2013-09-17T16:10:48.000+0000",5,0,0,False,False,False,0,False,0
-"TISTUD-5393","Improvement","2013-09-13T21:12:01.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-5392","Improvement","2013-09-13T21:05:20.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-5393","Story","2013-09-13T21:12:01.000+0000",0,0,0,False,False,False,0,False,0
+"TISTUD-5392","Story","2013-09-13T21:05:20.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5388","Story","2013-09-13T20:46:11.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5386","Story","2013-09-13T20:36:00.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5385","Story","2013-09-13T18:44:07.000+0000",0,0,0,False,False,False,5,True,0
@@ -496,11 +496,11 @@
 "TISTUD-5378","Bug","2013-09-08T08:23:34.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5372","Story","2013-09-09T18:44:45.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5370","Story","2013-09-08T00:18:20.000+0000",0,0,0,False,False,False,0,True,0
-"TISTUD-5369","Improvement","2013-09-08T00:13:31.000+0000",0,0,0,False,False,False,0,True,0
+"TISTUD-5369","Story","2013-09-08T00:13:31.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5368","Story","2013-09-08T00:05:00.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5366","Story","2013-09-07T23:59:51.000+0000",0,0,1,False,False,False,2,False,0
 "TISTUD-5365","Bug","2013-09-07T00:10:32.000+0000",0,0,0,False,False,False,0,True,0
-"TISTUD-5364","Improvement","2013-09-07T00:06:05.000+0000",0,0,0,False,False,False,0,True,0
+"TISTUD-5364","Story","2013-09-07T00:06:05.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5360","Improvement","2013-09-06T23:20:37.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5359","Story","2013-09-06T23:14:45.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-5355","Story","2013-09-06T22:15:53.000+0000",0,0,0,False,False,False,0,True,0
@@ -543,7 +543,7 @@
 "TISTUD-5151","Bug","2013-07-25T10:15:48.000+0000",0,0,0,True,True,False,3,True,0
 "TISTUD-5132","Story","2013-07-22T14:43:12.000+0000",0,0,0,True,False,False,0,False,0
 "TISTUD-5109","Bug","2013-07-15T23:24:54.000+0000",0,0,0,True,True,False,0,False,0
-"TISTUD-5105","Improvement","2013-07-15T18:41:15.000+0000",0,0,0,False,False,False,0,False,1
+"TISTUD-5105","Story","2013-07-15T18:41:15.000+0000",0,0,0,False,False,False,0,False,1
 "TISTUD-5104","Story","2013-07-15T18:39:36.000+0000",0,0,0,False,False,False,0,False,1
 "TISTUD-5093","Bug","2013-04-19T15:40:23.000+0000",0,0,0,False,False,False,0,True,0
 "TISTUD-5089","Bug","2013-07-09T21:14:05.000+0000",0,0,0,False,False,False,0,False,1
@@ -596,7 +596,7 @@
 "TISTUD-4359","Story","2013-04-22T22:07:52.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-4357","Story","2013-04-22T22:05:33.000+0000",0,0,0,False,False,False,0,False,0
 "TISTUD-4356","Story","2013-04-22T22:04:45.000+0000",0,0,0,False,False,False,0,False,0
-"TISTUD-4336","Improvement","2013-04-19T20:19:19.000+0000",0,1,0,False,False,False,3,True,0
+"TISTUD-4336","Bug","2013-04-19T20:19:19.000+0000",0,1,0,False,False,False,3,True,0
 "TISTUD-4335","Bug","2013-04-16T02:18:48.000+0000",0,0,0,False,False,False,4,True,0
 "TISTUD-4325","Bug","2013-04-18T21:52:08.000+0000",0,0,0,True,True,False,1,True,0
 "TISTUD-4318","Bug","2013-04-18T10:51:48.000+0000",0,1,1,False,False,False,2,True,0
