@@ -204,7 +204,7 @@ run <- function(projectKey, from, to) {
 ### For example, "R RQ4.r DM 0 99" to build and save models for 100 bootstrap datasets
 ########################################################################################
 
-#projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "XD")
+#projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "USERGRID", "XD")
 #args<-commandArgs(TRUE)
 #projectKey = args[1]
 #from = args[2]
@@ -219,7 +219,7 @@ run <- function(projectKey, from, to) {
 ########################################################################################
 ### run straight for 0-99 bootstraps dataset
 ########################################################################################
-projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "XD")
+projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "USERGRID", "XD")
 for (projectKey in projectList) {
   from = 0
   to = 99
