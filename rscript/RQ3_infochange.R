@@ -15,7 +15,7 @@ source("util.R")
 # work items with changed information
 ########################################################################################
 # contingency tble
-projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "XD")
+projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "USERGRID", "XD")
 library(scales)
 library(effsize)
 

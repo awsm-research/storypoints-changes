@@ -37,6 +37,28 @@ getLRatio = function(fullModel) {
   return(list(round(lRatioChisq, 2), lRatioPLevel, round(normalizeSpChisq, 2), spPLevel))
 }
 
+
+getMMRE = function(model, data) {
+  predicted = predict(model, newdata=data, level=0)
+  mre = abs(data$time_in_status - predicted) / data$time_in_status
+  mmre = mean(mre)
+  return(mmre)
+}
+
+getSa = function(model, data) {
+  predicted = predict(model, newdata=data, level=0)
+  
+  max = max(data$time_in_status)
+  min = min(data$time_in_status)
+  
+  random <- sample(min:max, nrow(data))
+  maeRandom = sum(abs(data$time_in_status - random))/length(random)
+  maePredicted = sum(abs(data$time_in_status - predicted))/length(predicted)
+  
+  sa = (1 - maePredicted/maeRandom) * 100
+  return(sa)
+}
+
 run = function(project) {
   timeDf = read.csv(paste0("../data/rq2_inprogresstime/", project, ".csv"))
   revertedDf = read.csv(paste0("../data/reverted/", project, ".csv"))
@@ -57,6 +79,9 @@ run = function(project) {
   unchangedSp_Sp = temp[3] # Normalize Wald-Chisqareof Story Points
   unchangedSp_P = temp[4] # P-value of Normalize Wald-Chisqareof Story Points
   
+  unchangedSp_mmre = getMMRE(unchangedSpModel, noSpChgDf)
+  unchangedSp_sa = round(getSa(unchangedSpModel, noSpChgDf), digits=2)
+  
   # for changedSP sprint
   changedSpSprintModel = lme(time_in_status~sp_sprint, random=~1|issuetype, data=spChgDf)
   temp = getLRatio(changedSpSprintModel)
@@ -65,15 +90,25 @@ run = function(project) {
   changedSpSprint_Sp = temp[3]
   changedSpSprint_P = temp[4]
   
+  changedSpSprint_mmre = getMMRE(changedSpSprintModel, spChgDf)
+  changedSpSprint_sa = round(getSa(changedSpSprintModel, spChgDf), digits = 2)
+  
   # for changedSP last
-  changedSpLast = lme(time_in_status~storypoints, random=~1|issuetype, data=spChgDf)
-  temp = getLRatio(changedSpLast)
+  changedSpLastModel = lme(time_in_status~storypoints, random=~1|issuetype, data=spChgDf)
+  temp = getLRatio(changedSpLastModel)
   changedSpLast_L = temp[1]
   changedSpLast_L_P = temp[2]
   changedSpLast_Sp = temp[3]
   changedSpLast_Sp_P = temp[4]
+  
+  changedSpLast_mmre = getMMRE(changedSpLastModel, spChgDf)
+  changedSpLast_sa = round(getSa(changedSpLastModel, spChgDf), digits = 2)
+  
+  
   ##############        unchgSP LRχ2 | Pvalue             chgSP-sprint LRχ2 | Pvalue                chgSP-last LR χ2 | Pvalue                         unchgSP χ2 | Pvalue                chgSP-sprint Wald χ2 | Pvalue                chgSP-last Wald χ2 | Pvalue 
   cat(sprintf(paste0(unchangedSp_L, " \\", unchangedSp_L_P, " & ", changedSpSprint_L, " \\", changedSpSprint_L_P, " & ", changedSpLast_L, " \\", changedSpLast_L_P, " & ", unchangedSp_Sp,  " \\", unchangedSp_P, " & ", changedSpSprint_Sp,  " \\", changedSpSprint_P, " & ", changedSpLast_Sp,  " \\", changedSpLast_Sp_P)))
+  cat("\n")
+  cat(sprintf(paste0(unchangedSp_sa, " & ", changedSpSprint_sa, " & ", changedSpLast_sa)))
 }
 
 run("TISTUD")
@@ -81,4 +116,5 @@ run("DM")
 run("MESOS")
 run("MULE")
 run("TIMOB")
+run("USERGRID")
 run("XD")

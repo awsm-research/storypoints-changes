@@ -25,7 +25,7 @@ library(data.table)
 library(ScottKnottESD)
 
 
-projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "XD")
+projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "USERGRID", "XD")
 
 allOddsDf = data.frame()
 for (projectKey in projectList) {

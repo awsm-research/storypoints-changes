@@ -28,17 +28,18 @@ shorternProjectKey <- function(str) {
     r = "ME"
   }else if (str == "MULE") {
     r = "MU"
-  }else if (str == "TDQ") {
-    r = "TD"
   }else if (str == "TIMOB") {
     r = "TI"
   }else if (str == "TISTUD") {
     r = "AS"
   }else if (str == "XD") {
     r = "XD"
+  }else if (str == "USERGRID") {
+    r = "UG"
   }
   return(r)
 }
+
 
 filterIssueValidSprint <- function(dataFrame) {
   # Just to ensure that every work item have SP assigned not later than one hour after being assigned to a sprint 
@@ -63,3 +64,10 @@ na.zero <- function (x) {
   x[is.na(x)] <- 0
   return(x)
 }
+
+
+shuffleDf <- function(df) {
+  df = df[sample(nrow(df)),]
+  return(df)
+}
+

@@ -21,7 +21,7 @@ source("RQ4_util.R")
 library(ScottKnottESD)
 library(data.table)
 
-projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "XD")
+projectList = c("TISTUD", "DM", "MESOS", "MULE", "TIMOB", "USERGRID", "XD")
 run <- function() {
   for (projectKey in projectList) {
     allAnovaDf = data.frame()
