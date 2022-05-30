@@ -22,7 +22,7 @@ library(multilevel)
 library(lmtest)
 library(nlme)
 getLRatio = function(fullModel) {
-  lrResult = lrtest(fullModel) # LR test compare our (full) model with a null model
+  lrResult = lmtest::lrtest(fullModel) # LR test compare our (full) model with a null model
   lRatioChisq = lrResult$Chisq[2] # calculate Log-likelihood ratio
   lRatioPvalue = lrResult$`Pr(>Chisq)`[2] # extract p-value
   
@@ -50,7 +50,7 @@ getSa = function(model, data) {
   
   max = max(data$time_in_status)
   min = min(data$time_in_status)
-  
+  set.seed(0)
   random <- sample(min:max, nrow(data))
   maeRandom = sum(abs(data$time_in_status - random))/length(random)
   maePredicted = sum(abs(data$time_in_status - predicted))/length(predicted)
@@ -64,6 +64,7 @@ run = function(project) {
   revertedDf = read.csv(paste0("../data/reverted/", project, ".csv"))
   mergeDf = merge(revertedDf, dplyr::select(timeDf, issue_key, time_in_status), by = "issue_key")
   mergeDf = filterIssueValidSprint(mergeDf)
+  mergeDf$priority = as.factor(mergeDf$priority)
   
   spChgDf <<- mergeDf[mergeDf$sp_change == "True",]
   spChgDf <<- na.exclude(object = spChgDf)
@@ -72,7 +73,7 @@ run = function(project) {
   # build Linear Mixed-Effects Models between time that a work item's status is set to 'in progress' and Story Points
   
   # for unchangedSP
-  unchangedSpModel = lme(time_in_status~storypoints, random=~1|issuetype, data=noSpChgDf)
+  unchangedSpModel = lme(time_in_status~storypoints, random=list(T_sp_year=~1, issuetype=~1, priority=~1), data=noSpChgDf)
   temp = getLRatio(unchangedSpModel)
   unchangedSp_L = temp[1] # Log Likelihood Ratio of the model
   unchangedSp_L_P = temp[2] # P-value of Log Likelihood Ratio
@@ -83,7 +84,7 @@ run = function(project) {
   unchangedSp_sa = round(getSa(unchangedSpModel, noSpChgDf), digits=2)
   
   # for changedSP sprint
-  changedSpSprintModel = lme(time_in_status~sp_sprint, random=~1|issuetype, data=spChgDf)
+  changedSpSprintModel = lme(time_in_status~sp_sprint, random=list(T_sp_year=~1, issuetype=~1, priority=~1), data=spChgDf)
   temp = getLRatio(changedSpSprintModel)
   changedSpSprint_L = temp[1]
   changedSpSprint_L_P = temp[2]
@@ -94,7 +95,7 @@ run = function(project) {
   changedSpSprint_sa = round(getSa(changedSpSprintModel, spChgDf), digits = 2)
   
   # for changedSP last
-  changedSpLastModel = lme(time_in_status~storypoints, random=~1|issuetype, data=spChgDf)
+  changedSpLastModel = lme(time_in_status~storypoints, random=list(T_sp_year=~1, issuetype=~1, priority=~1), data=spChgDf)
   temp = getLRatio(changedSpLastModel)
   changedSpLast_L = temp[1]
   changedSpLast_L_P = temp[2]
