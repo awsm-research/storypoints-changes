@@ -45,7 +45,7 @@ buildLrmCommand <- function(ind_vars, enable_df, spearmanResult, buildLrmData) {
       # five degrees of freedom if ρ2 > 0.3
       formula = paste0(formula, "rcs(", var, ", ", 5, ")")
     } else if (enable_df & rho2 > 0.15) {
-      # three degrees of freedom if ρ2 > 0.3
+      # three degrees of freedom if ρ2 is between 0.15 and 0.3
       formula = paste0(formula, "rcs(", var, ", ", 3, ")")
     } else {
       # one degree of freedom for linear relationship
